@@ -19,7 +19,6 @@ Outputs a structured JSON report you can pipe into other tools or visualize in a
 
 ### Prerequisites
 
-```bash
 # Install Go 1.22+
 brew install go
 
@@ -30,26 +29,22 @@ go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 # Add Go binaries to PATH
 echo 'export PATH="$PATH:$(go env GOPATH)/bin"' >> ~/.zshrc
 source ~/.zshrc
-```
+
 
 ### Build
 
-```bash
 git clone https://github.com/0la-mide/recon-cli.git
 cd recon-cli
 go build -o recon-cli main.go
-```
 
 ## Usage
 
-```bash
 # Basic scan (no port scanning)
 ./recon-cli scan --target example.com --output report.json
 
 # Full scan with port scanning (requires sudo)
 sudo ./recon-cli scan --target example.com --ports top100 --output report.json
 sudo ./recon-cli scan --target example.com --ports top1000 --output report.json
-```
 
 ### Flags
 
@@ -82,4 +77,63 @@ sudo ./recon-cli scan --target example.com --ports top1000 --output report.json
 ```
 
 ## Example findings on tesla.com
+solarbonds.tesla.com        -> django
 
+billing.tesla.com           -> next.js, varnish
+
+teslacmgeu01.tesla.com      -> iis
+
+digitalassets.tesla.com     -> wordpress, cloudflare
+
+edr.tesla.com               -> express
+
+255 open ports across 105 hosts
+
+## Security Headers Checked
+
+- Strict-Transport-Security (HSTS)
+- Content-Security-Policy (CSP)
+- X-Frame-Options
+- X-Content-Type-Options
+- Referrer-Policy
+- Permissions-Policy
+- X-XSS-Protection
+
+## Tech Signatures
+
+Detects: nginx, Apache, Cloudflare, Akamai, Varnish, AWS, Fastly, WordPress, Laravel, PHP, ASP.NET, Django, Ruby on Rails, Express, Next.js, Shopify, Vercel, Netlify, GitHub Pages, IIS, Tomcat
+
+## Project Structure
+recon-cli/
+
+├── main.go
+
+├── cmd/
+
+│   └── root.go
+
+├── modules/
+
+│   ├── subdomain.go
+
+│   ├── dns.go
+
+│   ├── portscan.go
+
+│   ├── httpprobe.go
+
+│   ├── headers.go
+
+│   └── techdetect.go
+
+└── report/
+
+└── json.go
+
+## Legal
+
+Only run against domains you own or have explicit permission to test. This tool is for authorized security research and bug bounty programs only.
+
+## Author
+
+Olamide — [olamide.anvora.com.ng](https://olamide.anvora.com.ng) | [GitHub](https://github.com/0la-mide)
