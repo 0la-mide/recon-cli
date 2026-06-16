@@ -19,6 +19,7 @@ Outputs a structured JSON report you can pipe into other tools or visualize in a
 
 ### Prerequisites
 
+```bash
 # Install Go 1.22+
 brew install go
 
@@ -29,22 +30,26 @@ go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 # Add Go binaries to PATH
 echo 'export PATH="$PATH:$(go env GOPATH)/bin"' >> ~/.zshrc
 source ~/.zshrc
-
+```
 
 ### Build
 
+```bash
 git clone https://github.com/0la-mide/recon-cli.git
 cd recon-cli
 go build -o recon-cli main.go
+```
 
 ## Usage
 
+```bash
 # Basic scan (no port scanning)
 ./recon-cli scan --target example.com --output report.json
 
 # Full scan with port scanning (requires sudo)
 sudo ./recon-cli scan --target example.com --ports top100 --output report.json
 sudo ./recon-cli scan --target example.com --ports top1000 --output report.json
+```
 
 ### Flags
 
