@@ -1,0 +1,4642 @@
+{
+  "target": "tesla.com",
+  "scan_date": "2026-06-15T14:04:20Z",
+  "subdomains": {
+    "target": "tesla.com",
+    "subdomains": [
+      "ns4.cloud.tesla.com",
+      "ww2.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "media-server-qr.eng.america.vn.cloud.tesla.com",
+      "cradlepointtest01.tesla.com",
+      "cx-api-apac.tesla.com",
+      "energydesk.tesla.com",
+      "epuca-prd.euw1.vn.cloud.tesla.com",
+      "external.hermes-api.prd.na.vn.cloud.tesla.com",
+      "images.apf-api.prd.vn.cloud.tesla.com",
+      "m.extsentry.tesla.com",
+      "dns.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "emails.tesla.com",
+      "login.link.tesla.com",
+      "preview.digitalcontent.tesla.com",
+      "v3.hcaptcha.tesla.com",
+      "ww1.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "dns1.cua-help-me-charge-ui.tesla.com",
+      "stream.akamai-apigateway-charging-ownership.tesla.com",
+      "gitlab.digitalassets.tesla.com",
+      "imap.digitalcontent.tesla.com",
+      "kronosdb.tesla.com",
+      "stream.hermes-api.prd.na.vn.cloud.tesla.com",
+      "api.digitalassets-shop.tesla.com",
+      "beta.epuca-prd.usw.vn.cloud.tesla.com",
+      "dns.cua-help-me-choose-ui.tesla.com",
+      "mta.email.tesla.com",
+      "assistant-api.prd.na.vn.cloud.tesla.com",
+      "beta.digitalcontent.tesla.com",
+      "teslamezcal.tesla.com",
+      "ca.tesla.com",
+      "comparison.tesla.com",
+      "secure.hermes-api.prd.na.vn.cloud.tesla.com",
+      "test.cua-chat-ui.tesla.com",
+      "mytcore-inventory-assests.tesla.com",
+      "owa.akamai-apigateway-suppliers.tesla.com",
+      "static.auth.tesla.com",
+      "video.assistant-api.prd.euw1.vn.cloud.tesla.com",
+      "courses.tesla.com",
+      "home.location-services-prd.tesla.com",
+      "ns1.apf-api.prd.vn.cloud.tesla.com",
+      "o3.ptr1444.tesla.com",
+      "auth.prd.euw1.vn.cloud.tesla.com",
+      "dal11-gpgw1.tesla.com",
+      "digitalassets-stage.tesla.com",
+      "static-assets-pay.tesla.com",
+      "ww2.digitalcontent.tesla.com",
+      "mobile-links.prd.vn.cloud.tesla.com",
+      "demo.cloud.tesla.com",
+      "my.epuca-prd.usw.vn.cloud.tesla.com",
+      "webmail.euw1.vn.cloud.tesla.com",
+      "ads.cua-chat-ui.tesla.com",
+      "monitoring-eu.tesla.com",
+      "ny.tesla.com",
+      "referral.tesla.com",
+      "track.cua-help-me-choose-ui.tesla.com",
+      "ug.tesla.com",
+      "ads.hermes-ap.prd.vn.cloud.tesla.com",
+      "epc.tesla.com",
+      "mail.digitalassets-shop.tesla.com",
+      "ns2.digitalcontent.tesla.com",
+      "stats.cua-help-me-charge-ui.tesla.com",
+      "media-server-api.eng.vn.cloud.tesla.com",
+      "ads.akamai-apigateway-vfx.tesla.com",
+      "akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com",
+      "api.location-services-prd.tesla.com",
+      "fleetview.america.fn.tesla.com",
+      "fleetview.fn.tesla.com",
+      "npute-prd.euw1.vn.cloud.tesla.com",
+      "nv.tesla.com",
+      "assets.epc.tesla.com",
+      "cx-apac.tesla.com",
+      "fleet-api.prd.eu.vn.cloud.tesla.com",
+      "private.apigateway-charging-bff.tesla.com",
+      "prod.apigateway-logging.tesla.com",
+      "wiki.hcaptcha.tesla.com",
+      "cdn-design.tesla.com",
+      "cdn.eu.vn.cloud.tesla.com",
+      "prd.euw1.vn.cloud.tesla.com",
+      "dns.fleet-apf-prd.tesla.com",
+      "ownerapi-api.eng.euw1.vn.cloud.tesla.com",
+      "k8s.apigateway-message-center-ownership.tesla.com",
+      "s3.c.smf11.tcs.tesla.com",
+      "sso.tesla.com",
+      "upload.apigateway-logging.tesla.com",
+      "upload.digitalassets.tesla.com",
+      "dns2.akamai-apigateway-charging-ownership.tesla.com",
+      "assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "media.digitalcontent.tesla.com",
+      "telemetry-ap.prd.vn.cloud.tesla.com",
+      "us-west-2-eng-maps.k8s.tesla.com",
+      "bolt.tesla.com",
+      "assets.dpuas-prd.usw.vn.cloud.tesla.com",
+      "dns1.cua-chat-ui.tesla.com",
+      "internal.cloud.tesla.com",
+      "prod.digitalassets.tesla.com",
+      "status.digitalassets.tesla.com",
+      "sentry-api.ops.na.vn.cloud.tesla.com",
+      "cryptopay3.tesla.com",
+      "energysupport.tesla.com",
+      "fleet-music-prd.tesla.com",
+      "integration-kronos-dev.tesla.com",
+      "www.apigateway-logging.tesla.com",
+      "account.apf-api.prd.vn.cloud.tesla.com",
+      "auth-global.tesla.com",
+      "cloudprotect.tesla.com",
+      "digitalcontent.tesla.com",
+      "dns1.assistant-api.prd.na.vn.cloud.tesla.com",
+      "home.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "prod.device-api.prd.na.vn.cloud.tesla.com",
+      "secure.eu.vn.cloud.tesla.com",
+      "gcp.euw1.vn.cloud.tesla.com",
+      "imap.auth.tesla.com",
+      "monitor.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "ns3.analytics-relay.tesla.com",
+      "ns3.cloud.tesla.com",
+      "prd.usw2.vn.cloud.tesla.com",
+      "staging.location-services-prd.tesla.com",
+      "u003evn.tesla.com",
+      "cua-chat-ui.tesla.com",
+      "apacvpn1.tesla.com",
+      "dns2.dpuas-prd.usw.vn.cloud.tesla.com",
+      "links.tesla.com",
+      "na-sso.tesla.com",
+      "portal.cua-help-me-charge-ui.tesla.com",
+      "app.fleet-apf-prd.tesla.com",
+      "eu.vn.cloud.tesla.com",
+      "exp-zcp-cloud-eu-itmfg.tesla.com",
+      "signaling-robotics.eng.vn.cloud.tesla.com",
+      "vehicle-files.prd.usw2.vn.cloud.tesla.com",
+      "de.tesla.com",
+      "edge.akamai-apigateway-suppliers.tesla.com",
+      "home.digitalassets.tesla.com",
+      "private.epc.tesla.com",
+      "v3.epc.tesla.com",
+      "autoconfig.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "autodiscover.hermes-ap.prd.vn.cloud.tesla.com",
+      "imap.cua-help-me-charge-ui.tesla.com",
+      "live-data.fn.tesla.com",
+      "mail.apmv3-cdn-go.tesla.com",
+      "prd.na.vn.cloud.tesla.com",
+      "serviceapp.tesla.com",
+      "teslacmgcn01.tesla.com",
+      "gitlab.epuca-prd.euw1.vn.cloud.tesla.com",
+      "images.apigateway-message-center-ownership.tesla.com",
+      "static-assets.tesla.com",
+      "usw2.vn.cloud.tesla.com",
+      "www-uat.tesla.com",
+      "ams13-gpgw1.tesla.com",
+      "assets.eu.vn.cloud.tesla.com",
+      "ns4.digitalcontent.tesla.com",
+      "public.apigateway-charging-bff.tesla.com",
+      "teslacdpna03.tesla.com",
+      "dev.device-api.prd.na.vn.cloud.tesla.com",
+      "dns1.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "mail1.akamai-apigateway-suppliers.tesla.com",
+      "solarbonds.tesla.com",
+      "logtransit-ext.tesla.com",
+      "mobile-links.eng.vn.cloud.tesla.com",
+      "cxengine-apac-stg.tesla.com",
+      "hcaptcha.tesla.com",
+      "images.cloud.tesla.com",
+      "mail.assistant-api.prd.euw1.vn.cloud.tesla.com",
+      "mobile.tesla.com",
+      "ns2.assistant-api.prd.na.vn.cloud.tesla.com",
+      "owa.device-api.prd.na.vn.cloud.tesla.com",
+      "app.apigateway-logging.tesla.com",
+      "energy.obs.tesla.com",
+      "gcp.apigateway-charging-bff.tesla.com",
+      "my.tesla.com",
+      "pop.device-api.prd.eu.vn.cloud.tesla.com",
+      "stream.digitalcontent.tesla.com",
+      "ui.a.smf11.tcs.tesla.com",
+      "www.tesla.com",
+      "fleetview.europe.fn.tesla.com",
+      "hermes-ap.prd.vn.cloud.tesla.com",
+      "nav.vn.cloud.tesla.com",
+      "teslacdpna05.tesla.com",
+      "vehicle-files.eng.usw2.vn.cloud.tesla.com",
+      "ads.hcaptcha.tesla.com",
+      "chat.cua-help-me-choose-ui.tesla.com",
+      "ftp.extsentry.tesla.com",
+      "git.epuca-prd.usw.vn.cloud.tesla.com",
+      "static.epc.tesla.com",
+      "tripx.eng.usw.vn.cloud.tesla.com",
+      "webmail.cua-chat-ui.tesla.com",
+      "3.tesla.com",
+      "device-api.prd.eu.vn.cloud.tesla.com",
+      "dns.device-api.prd.na.vn.cloud.tesla.com",
+      "o7.ptr6980.tesla.com",
+      "s3.d.smf11.tcs.tesla.com",
+      "tx.tesla.com",
+      "vpn.hermes-ap.prd.vn.cloud.tesla.com",
+      "x3.obs.tesla.com",
+      "extsentry.tesla.com",
+      "toolbox.tesla.com",
+      "api-kronos-dev.tesla.com",
+      "mail.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "www.vpn1.tesla.com",
+      "xmail.tesla.com",
+      "k8s.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "mail1.digitalassets.tesla.com",
+      "public.apigateway-pricing-gateway.tesla.com",
+      "upload.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "v3.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "vn.tesla.com",
+      "external.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "account.euw1.vn.cloud.tesla.com",
+      "apigateway-message-center-ownership.tesla.com",
+      "autoconfig.euw1.vn.cloud.tesla.com",
+      "public.epc.tesla.com",
+      "ci.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "edr.tesla.com",
+      "ns3.akamai-apigateway-vfx.tesla.com",
+      "s3.b.smf11.tcs.tesla.com",
+      "s3.eng.na.vn.cloud.tesla.com",
+      "vehicle-files.eng.euw1.vn.cloud.tesla.com",
+      "digitalassets-shop.tesla.com",
+      "img.digitalassets-accounts.tesla.com",
+      "static-assets-teslaaccount.tesla.com",
+      "akamai-apigateway-charging-ownership.tesla.com",
+      "alpha.epuca-prd.usw.vn.cloud.tesla.com",
+      "gateway.hermes-ap.prd.vn.cloud.tesla.com",
+      "inventory-assets.tesla.com",
+      "preview.analytics-relay.tesla.com",
+      "sandbox.epc.tesla.com",
+      "dev-hermes-qd.tesla.com",
+      "mail1.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "webmail.auth.tesla.com",
+      "media-server-qr.prd.america.vn.cloud.tesla.com",
+      "dns.epuca-prd.euw1.vn.cloud.tesla.com",
+      "obs.tesla.com",
+      "private.cua-chat-ui.tesla.com",
+      "shop.epc.tesla.com",
+      "wiki.hermes-api.prd.na.vn.cloud.tesla.com",
+      "edge.digitalassets.tesla.com",
+      "bettertime.tesla.com",
+      "tripx.prd.usw.vn.cloud.tesla.com",
+      "akamai-apigateway-einvoicing-stg.tesla.com",
+      "blog.device-api.prd.na.vn.cloud.tesla.com",
+      "chat.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "cyberbeer.tesla.com",
+      "db.digitalcontent.tesla.com",
+      "apigateway-charging-bff.tesla.com",
+      "files.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "kronos-dev.tesla.com",
+      "m.epuca-prd.euw1.vn.cloud.tesla.com",
+      "my.hermes-api.prd.na.vn.cloud.tesla.com",
+      "staging.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "wim-kronos-dev.tesla.com",
+      "mobile-ops-links.prd.vn.cloud.tesla.com",
+      "mail2.extsentry.tesla.com",
+      "mta3.emails.tesla.com",
+      "ns3.hermes-api.prd.na.vn.cloud.tesla.com",
+      "teslatequila.tesla.com",
+      "api.kronos.tesla.com",
+      "apmv3-cdn-go.tesla.com",
+      "livestream.tesla.com",
+      "mail.auth.tesla.com",
+      "web.digitalassets-accounts.tesla.com",
+      "billing.tesla.com",
+      "aws.akamai-apigateway-charging-ownership.tesla.com",
+      "private.digitalassets-shop.tesla.com",
+      "sentry.app.tesla.com",
+      "shop.apigateway-pricing-gateway.tesla.com",
+      "apf-api.prd.vn.cloud.tesla.com",
+      "digitalassets.tesla.com",
+      "edge.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "go.apigateway-logging.tesla.com",
+      "image.emails.tesla.com",
+      "mfamobile-dev.tesla.com",
+      "prod.cua-help-me-choose-ui.tesla.com",
+      "syd14-gpgw1.tesla.com",
+      "app.cua-chat-ui.tesla.com",
+      "mail1.euw1.vn.cloud.tesla.com",
+      "stats.apigateway-pricing-gateway.tesla.com",
+      "ww1.fleet-music-prd.tesla.com",
+      "click.apigateway-message-center-ownership.tesla.com",
+      "cloud.epc.tesla.com",
+      "dns1.apigateway-logging.tesla.com",
+      "login.device-api.prd.na.vn.cloud.tesla.com",
+      "npuca-prd.usw.vn.cloud.tesla.com",
+      "ns4.akamai-apigateway-vfx.tesla.com",
+      "cdn.akamai-apigateway-suppliers.tesla.com",
+      "ns2.epuca-prd.euw1.vn.cloud.tesla.com",
+      "vehicle-files.prd.euw1.vn.cloud.tesla.com",
+      "gateway.epc.tesla.com",
+      "go.location-services-prd.tesla.com",
+      "link.tesla.com",
+      "live.apigateway-pricing-gateway.tesla.com",
+      "mta4.emails.tesla.com",
+      "prd.eu.vn.cloud.tesla.com",
+      "shop.extsentry.tesla.com",
+      "dns1.device-api.prd.na.vn.cloud.tesla.com",
+      "k8s.device-api.prd.eu.vn.cloud.tesla.com",
+      "mail.apigateway-charging-bff.tesla.com",
+      "mfg.tesla.com",
+      "www.cloud.tesla.com",
+      "click.hermes-ap.prd.vn.cloud.tesla.com",
+      "dev.cloud.tesla.com",
+      "location-services-prd.tesla.com",
+      "pop.akamai-apigateway-suppliers.tesla.com",
+      "stream.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "wdm-kronos-dev.tesla.com",
+      "kronos.tesla.com",
+      "shop.hermes-api.prd.na.vn.cloud.tesla.com",
+      "static.energy.obs.tesla.com",
+      "akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+      "dev.fleet-apf-prd.tesla.com",
+      "dns.apigateway-pricing-gateway.tesla.com",
+      "sandbox.digitalassets-shop.tesla.com",
+      "smtp.digitalcontent.tesla.com",
+      "stream.epuca-prd.usw.vn.cloud.tesla.com",
+      "teslacmgus01.tesla.com",
+      "wim.kronos.tesla.com",
+      "signaling-robotics.eng.usw.vn.cloud.tesla.com",
+      "paymentrecon-stage.tesla.com",
+      "tripx.eng.usw2.vn.cloud.tesla.com",
+      "click.device-api.prd.na.vn.cloud.tesla.com",
+      "docs.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "iad05-gpgw1.tesla.com",
+      "public.digitalassets-shop.tesla.com",
+      "s3.a.smf11.tcs.tesla.com",
+      "sip.tesla.com",
+      "forum.analytics-relay.tesla.com",
+      "ns2.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "mx.fleet-music-prd.tesla.com",
+      "video.fleet-apf-prd.tesla.com",
+      "wiki.apigateway-message-center-ownership.tesla.com",
+      "bettertime-stage.tesla.com",
+      "api-toolbox.tesla.com",
+      "internal.akamai-apigateway-charging-ownership.tesla.com",
+      "cdn.akamai-apigateway-charging-ownership.tesla.com",
+      "cn-north-1-eng-teslamaps.k8s.tesla.com",
+      "model3.tesla.com",
+      "mta5.emails.tesla.com",
+      "o6.ptr9437.tesla.com",
+      "preview.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "cdn.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "cdn.location-services-prd.tesla.com",
+      "mobile-links-cdn.eng.vn.cloud.tesla.com",
+      "login.hermes-ap.prd.vn.cloud.tesla.com",
+      "track.epc.tesla.com",
+      "ui.b.smf11.tcs.tesla.com",
+      "digitalassets-contents.tesla.com",
+      "media.hcaptcha.tesla.com",
+      "analytics.akamai-apigateway-suppliers.tesla.com",
+      "api.apmv3-cdn-go.tesla.com",
+      "live.assistant-api.prd.na.vn.cloud.tesla.com",
+      "go.energy.obs.tesla.com",
+      "mail2.cua-help-me-charge-ui.tesla.com",
+      "service.tesla.com",
+      "status.epuca-prd.euw1.vn.cloud.tesla.com",
+      "v1.device-api.prd.na.vn.cloud.tesla.com",
+      "forum.energy.obs.tesla.com",
+      "npu.prd.nav.vn.cloud.tesla.com",
+      "ns2.fleet-music-prd.tesla.com",
+      "smtp.extsentry.tesla.com",
+      "click.apigateway-charging-bff.tesla.com",
+      "cryptopay2.tesla.com",
+      "help.akamai-apigateway-charging-ownership.tesla.com",
+      "help.fleet-music-prd.tesla.com",
+      "hub.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "logcollector-ext.tesla.com",
+      "npuv-ap.prd.usw2.vn.cloud.tesla.com",
+      "smtp.device-api.prd.eu.vn.cloud.tesla.com",
+      "demo.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "fleet-apf-prd.tesla.com",
+      "gateway.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "gf.tesla.com",
+      "status.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "teslacdpna04.tesla.com",
+      "vn.cloud.tesla.com",
+      "admin.dpuas-prd.usw.vn.cloud.tesla.com",
+      "akamai-apigateway-vfx.tesla.com",
+      "img.hcaptcha.tesla.com",
+      "internal.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "npute-prd.usw.vn.cloud.tesla.com",
+      "ns4.device-api.prd.na.vn.cloud.tesla.com",
+      "o1.ptr2410.link.tesla.com",
+      "vpn2.tesla.com",
+      "dev.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "digitalassets-energy.tesla.com",
+      "forum.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "mobile.kronos.tesla.com",
+      "v1.digitalassets-accounts.tesla.com",
+      "ww1.digitalassets.tesla.com",
+      "account.eu.vn.cloud.tesla.com",
+      "analytics.hcaptcha.tesla.com",
+      "autodiscover.epuca-prd.euw1.vn.cloud.tesla.com",
+      "blog.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "dex.ops.vs-bnc.na.vn.cloud.tesla.com",
+      "hermes-api.prd.na.vn.cloud.tesla.com",
+      "sin05-gpgw1.tesla.com",
+      "cdn.link.tesla.com",
+      "itanswers.tesla.com",
+      "media.auth.tesla.com",
+      "na.vn.cloud.tesla.com",
+      "static.tesla.com",
+      "v3.akamai-apigateway-charging-ownership.tesla.com",
+      "gateway.apf-api.prd.vn.cloud.tesla.com",
+      "shop.tesla.com",
+      "assets.digitalcontent.tesla.com",
+      "int.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "o2.ptr556.tesla.com",
+      "x3-eng.obs.tesla.com",
+      "npuv-prd.usw.vn.cloud.tesla.com",
+      "s3.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "device-api.prd.na.vn.cloud.tesla.com",
+      "cryptopay.tesla.com",
+      "db.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "fleet-streaming-api.eng.vn.cloud.tesla.com",
+      "ftp.akamai-apigateway-vfx.tesla.com",
+      "gitlab.epc.tesla.com",
+      "paymentrecon.tesla.com",
+      "staging.epuca-prd.euw1.vn.cloud.tesla.com",
+      "chat.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "exp-zcp-cloud-na-itmfg-staging.tesla.com",
+      "status.auth.tesla.com",
+      "wdm.kronos.tesla.com",
+      "go.akamai-apigateway-suppliers.tesla.com",
+      "view.emails.tesla.com",
+      "cdn.epuca-prd.usw.vn.cloud.tesla.com",
+      "internal.apigateway-charging-bff.tesla.com",
+      "sc-cppm.tesla.com",
+      "analytics.dpuas-prd.usw.vn.cloud.tesla.com",
+      "cua-help-me-charge-ui.tesla.com",
+      "grafana.energy.obs.tesla.com",
+      "ns3.energy.obs.tesla.com",
+      "private.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "toolbox-beta.tesla.com",
+      "charging-transparency.tesla.com",
+      "cloud.dpuas-prd.usw.vn.cloud.tesla.com",
+      "forums.tesla.com",
+      "my.assistant-api.prd.na.vn.cloud.tesla.com",
+      "resources.tesla.com",
+      "stats.eu.vn.cloud.tesla.com",
+      "teslacmgap01.tesla.com",
+      "test.epuca-prd.euw1.vn.cloud.tesla.com",
+      "autodiscover.tesla.com",
+      "cloud.akamai-apigateway-charging-ownership.tesla.com",
+      "forum.digitalcontent.tesla.com",
+      "hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "m.location-services-prd.tesla.com",
+      "fleet-api.eng.na.vn.cloud.tesla.com",
+      "grafana.extsentry.tesla.com",
+      "media.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "s3.energy.obs.tesla.com",
+      "ownerapi-api.prd.usw.vn.cloud.tesla.com",
+      "ir.tesla.com",
+      "ns1.fleet-apf-prd.tesla.com",
+      "suppliers.tesla.com",
+      "test.akamai-apigateway-suppliers.tesla.com",
+      "akamai-apigateway-suppliers.tesla.com",
+      "db.fleet-music-prd.tesla.com",
+      "external.fleet-apf-prd.tesla.com",
+      "pop.energy.obs.tesla.com",
+      "energy.tesla.com",
+      "engage.tesla.com",
+      "fleetview.prd.america.fn.tesla.com",
+      "gigabier.tesla.com",
+      "krndevdb.tesla.com",
+      "live-data.america.fn.tesla.com",
+      "cdn.assistant-api.prd.na.vn.cloud.tesla.com",
+      "hnd13-gpgw1.tesla.com",
+      "img.energy.obs.tesla.com",
+      "live.hermes-api.prd.na.vn.cloud.tesla.com",
+      "mail.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "smtp.euw1.vn.cloud.tesla.com",
+      "sso-dev.tesla.com",
+      "storage.cloud.tesla.com",
+      "apacvpn.tesla.com",
+      "images.dpuas-prd.usw.vn.cloud.tesla.com",
+      "v1.epc.tesla.com",
+      "tripx-alpha.prd.vn.cloud.tesla.com",
+      "account.device-api.prd.na.vn.cloud.tesla.com",
+      "assistant-api.prd.euw1.vn.cloud.tesla.com",
+      "db.cua-chat-ui.tesla.com",
+      "dex.ops.na.vn.cloud.tesla.com",
+      "live.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "static.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "store.link.tesla.com",
+      "analytics-relay.tesla.com",
+      "app.akamai-apigateway-suppliers.tesla.com",
+      "aws.euw1.vn.cloud.tesla.com",
+      "digitalassets-secure.tesla.com",
+      "monitoring.tesla.com",
+      "shop.eu.tesla.com",
+      "track.tesla.com",
+      "track.hermes-ap.prd.vn.cloud.tesla.com",
+      "app.epuca-prd.euw1.vn.cloud.tesla.com",
+      "internal.epuca-prd.usw.vn.cloud.tesla.com",
+      "track.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "tripx.prd.usw2.vn.cloud.tesla.com",
+      "v1.akamai-apigateway-vfx.tesla.com",
+      "autoconfig.auth.tesla.com",
+      "account.analytics-relay.tesla.com",
+      "apigateway-logging.tesla.com",
+      "cn.tesla.com",
+      "digitalassets-learning.tesla.com",
+      "pop.epuca-prd.euw1.vn.cloud.tesla.com",
+      "staging.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "store.epuca-prd.usw.vn.cloud.tesla.com",
+      "autobidder.powerhub.energy.tesla.com",
+      "cloud.tesla.com",
+      "k8s.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "mail2.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "media.digitalassets.tesla.com",
+      "apac-cppm.tesla.com",
+      "media-server-qr-dev.eng.america.vn.cloud.tesla.com",
+      "cxengine-apac.tesla.com",
+      "data.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "live.epuca-prd.usw.vn.cloud.tesla.com",
+      "ownerapi-api.eng.usw2.vn.cloud.tesla.com",
+      "ownerapi-alpha.prd.vn.cloud.tesla.com",
+      "admin.eu.vn.cloud.tesla.com",
+      "assets.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "dns2.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "docs.digitalassets.tesla.com",
+      "employeefeedback.tesla.com",
+      "jenkins.digitalassets.tesla.com",
+      "ns2.location-services-prd.tesla.com",
+      "app.akamai-apigateway-charging-ownership.tesla.com",
+      "chat.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "dns1.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "fleet-streaming-api.prd.vn.cloud.tesla.com",
+      "media.epc.tesla.com",
+      "mx.digitalcontent.tesla.com",
+      "my.akamai-apigateway-vfx.tesla.com",
+      "ns3.device-api.prd.na.vn.cloud.tesla.com",
+      "docs.location-services-prd.tesla.com",
+      "mfauser-dev.tesla.com",
+      "news.hermes-ap.prd.vn.cloud.tesla.com",
+      "ns1.epuca-prd.euw1.vn.cloud.tesla.com",
+      "secure.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "webmail.cua-help-me-choose-ui.tesla.com",
+      "accounts.tesla.com",
+      "apf-api.eng.vn.cloud.tesla.com",
+      "tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+      "prometheus.cua-help-me-charge-ui.tesla.com",
+      "signaling-alpha.prd.vn.cloud.tesla.com",
+      "teslacdpna0.tesla.com",
+      "teslacmgna01.tesla.com",
+      "v2.hermes-api.prd.na.vn.cloud.tesla.com",
+      "files.hermes-ap.prd.vn.cloud.tesla.com",
+      "prometheus.apigateway-logging.tesla.com",
+      "warpbilling.tesla.com",
+      "www.apigateway-charging-bff.tesla.com",
+      "powerhub.energy.tesla.com",
+      "www.apigateway-message-center-ownership.tesla.com",
+      "mta2.email.tesla.com",
+      "ownership.tesla.com",
+      "shop.cua-help-me-choose-ui.tesla.com",
+      "vpn1.tesla.com",
+      "exp-zcp-cloud-na-itmfg.tesla.com",
+      "go.device-api.prd.eu.vn.cloud.tesla.com",
+      "ion.tesla.com",
+      "o5.ptr8466.tesla.com",
+      "os.tesla.com",
+      "prd.nav.vn.cloud.tesla.com",
+      "ui.c.smf11.tcs.tesla.com",
+      "x3-prod.obs.tesla.com",
+      "lax32-gpgw1.tesla.com",
+      "npuv-prd.euw1.vn.cloud.tesla.com",
+      "storage.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "click.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "fleetview.prd.europe.fn.tesla.com",
+      "jenkins.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "teslacmgeu01.tesla.com",
+      "media-server-api.prd.vn.cloud.tesla.com",
+      "kubernetes.device-api.prd.eu.vn.cloud.tesla.com",
+      "media.device-api.prd.eu.vn.cloud.tesla.com",
+      "ops.na.vn.cloud.tesla.com",
+      "www.ug.tesla.com",
+      "blog.extsentry.tesla.com",
+      "u003ebilling.tesla.com",
+      "alpha.apigateway-message-center-ownership.tesla.com",
+      "dpuas-prd.usw.vn.cloud.tesla.com",
+      "int.akamai-apigateway-charging-ownership.tesla.com",
+      "smarttax.tesla.com",
+      "s3.prd.na.vn.cloud.tesla.com",
+      "db.apigateway-charging-bff.tesla.com",
+      "feedback.tesla.com",
+      "auth.tesla.com",
+      "tripx.prd.vn.cloud.tesla.com",
+      "admin.apigateway-logging.tesla.com",
+      "cua-help-me-choose-ui.tesla.com",
+      "npuapt-prd.usw.vn.cloud.tesla.com",
+      "fra05-gpgw1.tesla.com",
+      "gpv.tesla.com",
+      "img.eu.vn.cloud.tesla.com",
+      "prd.vn.cloud.tesla.com",
+      "prod.assistant-api.prd.usw2.vn.cloud.tesla.com",
+      "vpn3.tesla.com",
+      "www.digitalassets-shop.tesla.com",
+      "apigateway-pricing-gateway.tesla.com",
+      "monitor.apigateway-logging.tesla.com",
+      "usw.vn.cloud.tesla.com",
+      "auth.eng.usw.vn.cloud.tesla.com",
+      "hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "image-emails.tesla.com",
+      "images.apmv3-cdn-go.tesla.com",
+      "marketing.tesla.com",
+      "monitor.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "sjc36-gpgw1.tesla.com",
+      "v1.apf-api.prd.vn.cloud.tesla.com",
+      "media-server-dev-api.eng.vn.cloud.tesla.com",
+      "dns2.device-api.prd.na.vn.cloud.tesla.com",
+      "euw1.vn.cloud.tesla.com",
+      "exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+      "s3.eu.vn.cloud.tesla.com",
+      "vpn.assistant-api.prd.na.vn.cloud.tesla.com",
+      "www.cua-help-me-charge-ui.tesla.com",
+      "analytics.epuca-prd.euw1.vn.cloud.tesla.com",
+      "autobidder-preprd.powerhub.energy.tesla.com",
+      "cnvpn.tesla.com",
+      "v2.digitalassets-accounts.tesla.com",
+      "auth.prd.usw.vn.cloud.tesla.com",
+      "azure.assistant-api.prd.euw1.vn.cloud.tesla.com",
+      "help.apf-api.prd.vn.cloud.tesla.com",
+      "help.cloud.tesla.com",
+      "logs.tesla.com",
+      "ns2.digitalassets.tesla.com",
+      "staging.digitalassets-shop.tesla.com",
+      "track.cloud.tesla.com",
+      "assets-ir.tesla.com",
+      "hermes-api.prd.eu.vn.cloud.tesla.com",
+      "o4.ptr1867.tesla.com",
+      "ui.d.smf11.tcs.tesla.com",
+      "fleet-api.prd.na.vn.cloud.tesla.com",
+      "acme-sentry-4a.eng.use1.vn.cloud.tesla.com",
+      "dpuas-prd.euw1.vn.cloud.tesla.com",
+      "hub.epc.tesla.com",
+      "stream.dpuas-prd.usw.vn.cloud.tesla.com",
+      "track.hermes-api.prd.eu.vn.cloud.tesla.com",
+      "events.tesla.com",
+      "mta2.emails.tesla.com",
+      "v1.hermes-ap.prd.vn.cloud.tesla.com",
+      "ownerapi-api.eng.usw.vn.cloud.tesla.com",
+      "apacvpn2.tesla.com",
+      "api.cua-help-me-charge-ui.tesla.com",
+      "click.emails.tesla.com",
+      "cn-north-1-prd-teslamaps.k8s.tesla.com",
+      "gcp.hermes-stream-api.prd.eu.vn.cloud.tesla.com",
+      "dex.ops.bn.na.vn.cloud.tesla.com",
+      "digitalassets-accounts.tesla.com",
+      "mobile-links-cdn.prd.vn.cloud.tesla.com",
+      "ns4.cua-help-me-charge-ui.tesla.com",
+      "kronosdb-dev.tesla.com",
+      "prod.eu.vn.cloud.tesla.com",
+      "mx.epuca-prd.euw1.vn.cloud.tesla.com",
+      "ns2.analytics-relay.tesla.com",
+      "ns4.analytics-relay.tesla.com",
+      "prometheus.digitalassets.tesla.com",
+      "v2.hermes-stream-api.prd.na.vn.cloud.tesla.com",
+      "admin.digitalassets.tesla.com",
+      "cnvpn1.tesla.com",
+      "epuca-prd.usw.vn.cloud.tesla.com",
+      "integration.kronos.tesla.com"
+    ],
+    "count": 658
+  },
+  "live_hosts": {
+    "live_hosts": [
+      {
+        "subdomain": "emails.tesla.com",
+        "ips": [
+          "13.111.18.27"
+        ]
+      },
+      {
+        "subdomain": "cx-api-apac.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "bolt.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "digitalcontent.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "mta.email.tesla.com",
+        "ips": [
+          "13.111.14.190"
+        ]
+      },
+      {
+        "subdomain": "auth-global.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "teslamezcal.tesla.com",
+        "ips": [
+          "108.139.200.78",
+          "108.139.200.70",
+          "108.139.200.112",
+          "108.139.200.44",
+          "2600:9000:2846:1400:5:59ed:6a00:93a1",
+          "2600:9000:2846:a200:5:59ed:6a00:93a1",
+          "2600:9000:2846:8000:5:59ed:6a00:93a1",
+          "2600:9000:2846:ba00:5:59ed:6a00:93a1",
+          "2600:9000:2846:be00:5:59ed:6a00:93a1",
+          "2600:9000:2846:4600:5:59ed:6a00:93a1",
+          "2600:9000:2846:f000:5:59ed:6a00:93a1",
+          "2600:9000:2846:fc00:5:59ed:6a00:93a1"
+        ]
+      },
+      {
+        "subdomain": "mytcore-inventory-assests.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "courses.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "auth.prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "54.228.206.56"
+        ]
+      },
+      {
+        "subdomain": "o3.ptr1444.tesla.com",
+        "ips": [
+          "149.72.152.236"
+        ]
+      },
+      {
+        "subdomain": "dal11-gpgw1.tesla.com",
+        "ips": [
+          "199.120.56.30"
+        ]
+      },
+      {
+        "subdomain": "static-assets-pay.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "static-assets.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "sentry-api.ops.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.105"
+        ]
+      },
+      {
+        "subdomain": "fleet-music-prd.tesla.com",
+        "ips": [
+          "66.17.25.32"
+        ]
+      },
+      {
+        "subdomain": "ams13-gpgw1.tesla.com",
+        "ips": [
+          "199.120.50.30"
+        ]
+      },
+      {
+        "subdomain": "serviceapp.tesla.com",
+        "ips": [
+          "23.46.84.119",
+          "2a02:26f0:e0:8a4::b37",
+          "2a02:26f0:e0:8b1::b37"
+        ]
+      },
+      {
+        "subdomain": "assistant-api.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.4"
+        ]
+      },
+      {
+        "subdomain": "cua-chat-ui.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "apacvpn1.tesla.com",
+        "ips": [
+          "8.244.131.215"
+        ]
+      },
+      {
+        "subdomain": "links.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-eu-itmfg.tesla.com",
+        "ips": [
+          "23.194.22.27",
+          "2a02:26f0:e0:4ac::b4c",
+          "2a02:26f0:e0:488::b4c"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.prd.usw2.vn.cloud.tesla.com",
+        "ips": [
+          "96.16.86.202",
+          "96.16.86.203",
+          "2a02:26f0:7400::210:410a",
+          "2a02:26f0:7400::210:4118"
+        ]
+      },
+      {
+        "subdomain": "mobile-links.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.62"
+        ]
+      },
+      {
+        "subdomain": "teslacmgcn01.tesla.com",
+        "ips": [
+          "20.239.26.4"
+        ]
+      },
+      {
+        "subdomain": "epc.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "media-server-qr.eng.america.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.51"
+        ]
+      },
+      {
+        "subdomain": "www.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "media-server-api.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.51"
+        ]
+      },
+      {
+        "subdomain": "sso.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.eng.usw2.vn.cloud.tesla.com",
+        "ips": [
+          "96.16.86.210",
+          "96.16.86.227",
+          "2a02:26f0:7400::210:413a",
+          "2a02:26f0:7400::210:4138"
+        ]
+      },
+      {
+        "subdomain": "signaling-robotics.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.53"
+        ]
+      },
+      {
+        "subdomain": "mobile.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "npute-prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "34.241.94.236"
+        ]
+      },
+      {
+        "subdomain": "hcaptcha.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "solarbonds.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "fleetview.fn.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "live-data.fn.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "fleetview.america.fn.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "hermes-ap.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.81"
+        ]
+      },
+      {
+        "subdomain": "fleetview.europe.fn.tesla.com",
+        "ips": [
+          "54.75.101.220"
+        ]
+      },
+      {
+        "subdomain": "o7.ptr6980.tesla.com",
+        "ips": [
+          "149.72.144.42"
+        ]
+      },
+      {
+        "subdomain": "apigateway-message-center-ownership.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "ownerapi-api.eng.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "52.211.120.0"
+        ]
+      },
+      {
+        "subdomain": "device-api.prd.eu.vn.cloud.tesla.com",
+        "ips": [
+          "52.49.76.39"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-charging-ownership.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "telemetry-ap.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.86"
+        ]
+      },
+      {
+        "subdomain": "inventory-assets.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "96.16.86.227",
+          "96.16.86.219",
+          "2a02:26f0:7400::210:4111",
+          "2a02:26f0:7400::210:4118"
+        ]
+      },
+      {
+        "subdomain": "static-assets-teslaaccount.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "mobile-links.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.6"
+        ]
+      },
+      {
+        "subdomain": "extsentry.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "s3.eng.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.6"
+        ]
+      },
+      {
+        "subdomain": "assistant-api.prd.usw2.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.61"
+        ]
+      },
+      {
+        "subdomain": "cx-apac.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "energy.obs.tesla.com",
+        "ips": [
+          "66.17.13.4"
+        ]
+      },
+      {
+        "subdomain": "npuca-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "toolbox.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "bettertime.tesla.com",
+        "ips": [
+          "23.194.22.27",
+          "2a02:26f0:e0:4ac::b4c",
+          "2a02:26f0:e0:488::b4c"
+        ]
+      },
+      {
+        "subdomain": "tripx.prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "apigateway-charging-bff.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "cyberbeer.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "edr.tesla.com",
+        "ips": [
+          "23.14.136.60"
+        ]
+      },
+      {
+        "subdomain": "mobile-ops-links.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "kronos-dev.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "fleet-api.prd.eu.vn.cloud.tesla.com",
+        "ips": [
+          "52.211.84.165"
+        ]
+      },
+      {
+        "subdomain": "teslatequila.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "mta3.emails.tesla.com",
+        "ips": [
+          "13.111.88.2"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-shop.tesla.com",
+        "ips": [
+          "151.101.130.92",
+          "151.101.194.92",
+          "151.101.2.92",
+          "151.101.66.92",
+          "2a04:4e42:400::604",
+          "2a04:4e42:600::604",
+          "2a04:4e42:200::604",
+          "2a04:4e42::604"
+        ]
+      },
+      {
+        "subdomain": "cdn-design.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "livestream.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "billing.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "media-server-qr.prd.america.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.95"
+        ]
+      },
+      {
+        "subdomain": "xmail.tesla.com",
+        "ips": [
+          "204.74.99.100"
+        ]
+      },
+      {
+        "subdomain": "x3.obs.tesla.com",
+        "ips": [
+          "149.106.216.6"
+        ]
+      },
+      {
+        "subdomain": "mfamobile-dev.tesla.com",
+        "ips": [
+          "205.234.27.209"
+        ]
+      },
+      {
+        "subdomain": "syd14-gpgw1.tesla.com",
+        "ips": [
+          "199.120.32.30"
+        ]
+      },
+      {
+        "subdomain": "mta4.emails.tesla.com",
+        "ips": [
+          "13.111.88.52"
+        ]
+      },
+      {
+        "subdomain": "image.emails.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "apmv3-cdn-go.tesla.com",
+        "ips": [
+          "66.17.28.16"
+        ]
+      },
+      {
+        "subdomain": "link.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "location-services-prd.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "signaling-robotics.eng.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.53"
+        ]
+      },
+      {
+        "subdomain": "digitalassets.tesla.com",
+        "ips": [
+          "23.211.135.134",
+          "23.211.135.136",
+          "2a02:26f0:e0::211:2550",
+          "2a02:26f0:e0::211:25a1"
+        ]
+      },
+      {
+        "subdomain": "iad05-gpgw1.tesla.com",
+        "ips": [
+          "199.120.48.30"
+        ]
+      },
+      {
+        "subdomain": "tripx.eng.usw2.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.6"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "96.16.86.208",
+          "96.16.86.210",
+          "2a02:26f0:7400::210:4119",
+          "2a02:26f0:7400::210:4148"
+        ]
+      },
+      {
+        "subdomain": "apf-api.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.30.32"
+        ]
+      },
+      {
+        "subdomain": "fleet-apf-prd.tesla.com",
+        "ips": [
+          "66.17.30.32"
+        ]
+      },
+      {
+        "subdomain": "bettertime-stage.tesla.com",
+        "ips": [
+          "23.194.22.27",
+          "2a02:26f0:e0:4ac::b4c",
+          "2a02:26f0:e0:488::b4c"
+        ]
+      },
+      {
+        "subdomain": "mta5.emails.tesla.com",
+        "ips": [
+          "13.111.88.53"
+        ]
+      },
+      {
+        "subdomain": "kronos.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "mobile-links-cdn.eng.vn.cloud.tesla.com",
+        "ips": [
+          "18.64.221.55",
+          "18.64.221.70",
+          "18.64.221.9",
+          "18.64.221.116",
+          "2600:9000:2940:6a00:8:f087:d100:93a1",
+          "2600:9000:2940:5e00:8:f087:d100:93a1",
+          "2600:9000:2940:b400:8:f087:d100:93a1",
+          "2600:9000:2940:f000:8:f087:d100:93a1",
+          "2600:9000:2940:d400:8:f087:d100:93a1",
+          "2600:9000:2940:ce00:8:f087:d100:93a1",
+          "2600:9000:2940:7e00:8:f087:d100:93a1",
+          "2600:9000:2940:3400:8:f087:d100:93a1"
+        ]
+      },
+      {
+        "subdomain": "o6.ptr9437.tesla.com",
+        "ips": [
+          "168.245.123.10"
+        ]
+      },
+      {
+        "subdomain": "model3.tesla.com",
+        "ips": [
+          "205.234.27.221"
+        ]
+      },
+      {
+        "subdomain": "teslacmgus01.tesla.com",
+        "ips": [
+          "20.66.127.201"
+        ]
+      },
+      {
+        "subdomain": "logcollector-ext.tesla.com",
+        "ips": [
+          "23.194.22.27",
+          "2a02:26f0:e0:5a4::b4c",
+          "2a02:26f0:e0:5ba::b4c"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-vfx.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "vpn2.tesla.com",
+        "ips": [
+          "8.47.24.215"
+        ]
+      },
+      {
+        "subdomain": "o1.ptr2410.link.tesla.com",
+        "ips": [
+          "149.72.247.52"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-contents.tesla.com",
+        "ips": [
+          "151.101.194.92",
+          "151.101.2.92",
+          "151.101.130.92",
+          "151.101.66.92",
+          "2a04:4e42::604",
+          "2a04:4e42:400::604",
+          "2a04:4e42:200::604",
+          "2a04:4e42:600::604"
+        ]
+      },
+      {
+        "subdomain": "sin05-gpgw1.tesla.com",
+        "ips": [
+          "199.120.53.30"
+        ]
+      },
+      {
+        "subdomain": "itanswers.tesla.com",
+        "ips": [
+          "204.74.99.100"
+        ]
+      },
+      {
+        "subdomain": "static.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "npuv-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.80"
+        ]
+      },
+      {
+        "subdomain": "shop.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "o2.ptr556.tesla.com",
+        "ips": [
+          "149.72.134.64"
+        ]
+      },
+      {
+        "subdomain": "device-api.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.80"
+        ]
+      },
+      {
+        "subdomain": "npute-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.67"
+        ]
+      },
+      {
+        "subdomain": "hermes-api.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.82"
+        ]
+      },
+      {
+        "subdomain": "service.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "fleetview.prd.america.fn.tesla.com",
+        "ips": [
+          "66.17.10.62"
+        ]
+      },
+      {
+        "subdomain": "live-data.america.fn.tesla.com",
+        "ips": [
+          "66.17.10.62"
+        ]
+      },
+      {
+        "subdomain": "npu.prd.nav.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.100"
+        ]
+      },
+      {
+        "subdomain": "view.emails.tesla.com",
+        "ips": [
+          "13.111.49.179"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "ips": [
+          "23.44.119.214",
+          "2600:14a0:e0:283::b4c",
+          "2600:14a0:e0:280::b4c"
+        ]
+      },
+      {
+        "subdomain": "charging-transparency.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-energy.tesla.com",
+        "ips": [
+          "88.221.45.15",
+          "2a02:26f0:e0:4b3::10cf",
+          "2a02:26f0:e0:4a9::10cf"
+        ]
+      },
+      {
+        "subdomain": "autodiscover.tesla.com",
+        "ips": [
+          "52.98.21.40",
+          "40.104.11.184",
+          "52.98.21.56",
+          "40.104.11.152",
+          "40.104.11.200",
+          "40.104.11.120",
+          "52.98.21.8",
+          "40.104.11.136",
+          "2603:1006:1:83a::8",
+          "2603:1006:1:837::8",
+          "2603:1006:1:839::8",
+          "2603:1006:1:24::8",
+          "2603:1006:1:835::8",
+          "2603:1006:1:819::8",
+          "2603:1006:1:21::8",
+          "2603:1006:1:26::8"
+        ]
+      },
+      {
+        "subdomain": "cua-help-me-charge-ui.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "hermes-stream-api.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.67"
+        ]
+      },
+      {
+        "subdomain": "suppliers.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "x3-eng.obs.tesla.com",
+        "ips": [
+          "66.17.20.3"
+        ]
+      },
+      {
+        "subdomain": "ir.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-suppliers.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "fleet-streaming-api.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.36"
+        ]
+      },
+      {
+        "subdomain": "sc-cppm.tesla.com",
+        "ips": [
+          "199.46.37.187"
+        ]
+      },
+      {
+        "subdomain": "hnd13-gpgw1.tesla.com",
+        "ips": [
+          "199.120.52.30"
+        ]
+      },
+      {
+        "subdomain": "gigabier.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "engage.tesla.com",
+        "ips": [
+          "18.245.162.28",
+          "18.245.162.10",
+          "18.245.162.95",
+          "18.245.162.25",
+          "2600:9000:26ba:7000:2:66:1780:93a1",
+          "2600:9000:26ba:d200:2:66:1780:93a1",
+          "2600:9000:26ba:ca00:2:66:1780:93a1",
+          "2600:9000:26ba:e800:2:66:1780:93a1",
+          "2600:9000:26ba:d400:2:66:1780:93a1",
+          "2600:9000:26ba:a400:2:66:1780:93a1",
+          "2600:9000:26ba:1600:2:66:1780:93a1",
+          "2600:9000:26ba:7600:2:66:1780:93a1"
+        ]
+      },
+      {
+        "subdomain": "sso-dev.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "apacvpn.tesla.com",
+        "ips": [
+          "8.244.67.215"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-secure.tesla.com",
+        "ips": [
+          "151.101.130.92",
+          "151.101.66.92",
+          "151.101.2.92",
+          "151.101.194.92",
+          "2a04:4e42:400::604",
+          "2a04:4e42:600::604",
+          "2a04:4e42:200::604",
+          "2a04:4e42::604"
+        ]
+      },
+      {
+        "subdomain": "tripx-alpha.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "analytics-relay.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "fleet-api.eng.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.3"
+        ]
+      },
+      {
+        "subdomain": "shop.eu.tesla.com",
+        "ips": [
+          "205.234.27.221"
+        ]
+      },
+      {
+        "subdomain": "track.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "ownerapi-api.prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.76"
+        ]
+      },
+      {
+        "subdomain": "apigateway-logging.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-learning.tesla.com",
+        "ips": [
+          "151.101.194.1",
+          "151.101.2.1",
+          "151.101.66.1",
+          "151.101.130.1",
+          "2a04:4e42:200::513",
+          "2a04:4e42:600::513",
+          "2a04:4e42::513",
+          "2a04:4e42:400::513"
+        ]
+      },
+      {
+        "subdomain": "autobidder.powerhub.energy.tesla.com",
+        "ips": [
+          "95.100.115.200",
+          "2a02:26f0:e0:5b3::1eca",
+          "2a02:26f0:e0:5bd::1eca"
+        ]
+      },
+      {
+        "subdomain": "media-server-qr-dev.eng.america.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.51"
+        ]
+      },
+      {
+        "subdomain": "employeefeedback.tesla.com",
+        "ips": [
+          "199.120.34.33",
+          "2620:137:d005:f0:b1ac:6437:ee2f:b438"
+        ]
+      },
+      {
+        "subdomain": "npuv-prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "52.49.76.39"
+        ]
+      },
+      {
+        "subdomain": "fleetview.prd.europe.fn.tesla.com",
+        "ips": [
+          "54.75.101.220"
+        ]
+      },
+      {
+        "subdomain": "assistant-api.prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "34.248.221.126"
+        ]
+      },
+      {
+        "subdomain": "mfauser-dev.tesla.com",
+        "ips": [
+          "205.234.27.209"
+        ]
+      },
+      {
+        "subdomain": "dpuas-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.61"
+        ]
+      },
+      {
+        "subdomain": "ownership.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "npuapt-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.86"
+        ]
+      },
+      {
+        "subdomain": "accounts.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:488::700",
+          "2a02:26f0:e0:484::700"
+        ]
+      },
+      {
+        "subdomain": "mta2.email.tesla.com",
+        "ips": [
+          "13.111.4.231"
+        ]
+      },
+      {
+        "subdomain": "image-emails.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "ion.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "o5.ptr8466.tesla.com",
+        "ips": [
+          "149.72.172.170"
+        ]
+      },
+      {
+        "subdomain": "lax32-gpgw1.tesla.com",
+        "ips": [
+          "199.120.54.30"
+        ]
+      },
+      {
+        "subdomain": "ownerapi-alpha.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.10"
+        ]
+      },
+      {
+        "subdomain": "apac-cppm.tesla.com",
+        "ips": [
+          "23.41.116.97"
+        ]
+      },
+      {
+        "subdomain": "s3.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "auth.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "tripx.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.64"
+        ]
+      },
+      {
+        "subdomain": "cua-help-me-choose-ui.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "fleet-streaming-api.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.73"
+        ]
+      },
+      {
+        "subdomain": "apf-api.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.25.33"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg.tesla.com",
+        "ips": [
+          "23.194.22.27",
+          "2a02:26f0:e0:488::b4c",
+          "2a02:26f0:e0:4ac::b4c"
+        ]
+      },
+      {
+        "subdomain": "tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.54"
+        ]
+      },
+      {
+        "subdomain": "powerhub.energy.tesla.com",
+        "ips": [
+          "95.100.115.200"
+        ]
+      },
+      {
+        "subdomain": "dpuas-prd.euw1.vn.cloud.tesla.com",
+        "ips": [
+          "34.248.221.126"
+        ]
+      },
+      {
+        "subdomain": "apigateway-pricing-gateway.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:590::700",
+          "2a02:26f0:e0:597::700"
+        ]
+      },
+      {
+        "subdomain": "sjc36-gpgw1.tesla.com",
+        "ips": [
+          "199.120.49.30"
+        ]
+      },
+      {
+        "subdomain": "teslacmgna01.tesla.com",
+        "ips": [
+          "20.253.219.41"
+        ]
+      },
+      {
+        "subdomain": "x3-prod.obs.tesla.com",
+        "ips": [
+          "66.17.22.2"
+        ]
+      },
+      {
+        "subdomain": "marketing.tesla.com",
+        "ips": [
+          "13.111.47.196"
+        ]
+      },
+      {
+        "subdomain": "auth.eng.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.10"
+        ]
+      },
+      {
+        "subdomain": "media-server-api.prd.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.95"
+        ]
+      },
+      {
+        "subdomain": "media-server-dev-api.eng.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.10.51"
+        ]
+      },
+      {
+        "subdomain": "teslacmgeu01.tesla.com",
+        "ips": [
+          "20.76.242.91"
+        ]
+      },
+      {
+        "subdomain": "assets-ir.tesla.com",
+        "ips": [
+          "23.14.136.60",
+          "2a02:26f0:e0:597::700",
+          "2a02:26f0:e0:590::700"
+        ]
+      },
+      {
+        "subdomain": "apacvpn2.tesla.com",
+        "ips": [
+          "124.158.21.195"
+        ]
+      },
+      {
+        "subdomain": "autobidder-preprd.powerhub.energy.tesla.com",
+        "ips": [
+          "95.100.115.200",
+          "2a02:26f0:e0:5b3::1eca",
+          "2a02:26f0:e0:5bd::1eca"
+        ]
+      },
+      {
+        "subdomain": "o4.ptr1867.tesla.com",
+        "ips": [
+          "149.72.163.58"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-accounts.tesla.com",
+        "ips": [
+          "88.221.45.15",
+          "2a02:26f0:e0:4b3::10cf",
+          "2a02:26f0:e0:4a9::10cf"
+        ]
+      },
+      {
+        "subdomain": "feedback.tesla.com",
+        "ips": [
+          "199.120.36.74"
+        ]
+      },
+      {
+        "subdomain": "ownerapi-api.eng.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.10"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "ips": [
+          "23.44.119.214",
+          "2600:14a0:e0:283::b4c",
+          "2600:14a0:e0:280::b4c"
+        ]
+      },
+      {
+        "subdomain": "click.emails.tesla.com",
+        "ips": [
+          "13.111.48.179"
+        ]
+      },
+      {
+        "subdomain": "hermes-api.prd.eu.vn.cloud.tesla.com",
+        "ips": [
+          "52.208.90.105"
+        ]
+      },
+      {
+        "subdomain": "gpv.tesla.com",
+        "ips": [
+          "199.120.50.29"
+        ]
+      },
+      {
+        "subdomain": "events.tesla.com",
+        "ips": [
+          "13.111.47.195"
+        ]
+      },
+      {
+        "subdomain": "mta2.emails.tesla.com",
+        "ips": [
+          "13.111.88.1"
+        ]
+      },
+      {
+        "subdomain": "mobile-links-cdn.prd.vn.cloud.tesla.com",
+        "ips": [
+          "108.157.78.24",
+          "108.157.78.75",
+          "108.157.78.9",
+          "108.157.78.120",
+          "2600:9000:247d:a400:1d:56ed:1b40:93a1",
+          "2600:9000:247d:c400:1d:56ed:1b40:93a1",
+          "2600:9000:247d:600:1d:56ed:1b40:93a1",
+          "2600:9000:247d:a00:1d:56ed:1b40:93a1",
+          "2600:9000:247d:200:1d:56ed:1b40:93a1",
+          "2600:9000:247d:5000:1d:56ed:1b40:93a1",
+          "2600:9000:247d:7600:1d:56ed:1b40:93a1",
+          "2600:9000:247d:fa00:1d:56ed:1b40:93a1"
+        ]
+      },
+      {
+        "subdomain": "cnvpn.tesla.com",
+        "ips": [
+          "103.222.41.215"
+        ]
+      },
+      {
+        "subdomain": "cnvpn1.tesla.com",
+        "ips": [
+          "114.141.176.215"
+        ]
+      },
+      {
+        "subdomain": "auth.prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.74"
+        ]
+      },
+      {
+        "subdomain": "epuca-prd.usw.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.74"
+        ]
+      },
+      {
+        "subdomain": "fleet-api.prd.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.74"
+        ]
+      },
+      {
+        "subdomain": "dex.ops.bn.na.vn.cloud.tesla.com",
+        "ips": [
+          "66.17.12.98"
+        ]
+      }
+    ],
+    "count": 200
+  },
+  "http_probe": {
+    "hosts": [
+      {
+        "subdomain": "mytcore-inventory-assests.tesla.com",
+        "url": "https://mytcore-inventory-assests.tesla.com",
+        "status_code": 403,
+        "server": "Varnish",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ams13-gpgw1.tesla.com",
+        "url": "https://ams13-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "static-assets-pay.tesla.com",
+        "url": "https://static-assets-pay.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "npuca-prd.usw.vn.cloud.tesla.com",
+        "url": "https://npuca-prd.usw.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalcontent.tesla.com",
+        "url": "https://digitalcontent.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "bettertime.tesla.com",
+        "url": "https://bettertime.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "kronos.tesla.com",
+        "url": "https://kronos.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "tripx.prd.usw.vn.cloud.tesla.com",
+        "url": "https://tripx.prd.usw.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "toolbox.tesla.com",
+        "url": "https://toolbox.tesla.com",
+        "status_code": 200,
+        "server": "nginx/1.19.3",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "mobile-links-cdn.eng.vn.cloud.tesla.com",
+        "url": "https://mobile-links-cdn.eng.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "engage.tesla.com",
+        "url": "https://engage.tesla.com",
+        "status_code": 202,
+        "server": "CloudFront",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hnd13-gpgw1.tesla.com",
+        "url": "https://hnd13-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "sso-dev.tesla.com",
+        "url": "https://sso-dev.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hcaptcha.tesla.com",
+        "url": "http://hcaptcha.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": false
+      },
+      {
+        "subdomain": "gigabier.tesla.com",
+        "url": "https://gigabier.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "cx-apac.tesla.com",
+        "url": "http://cx-apac.tesla.com",
+        "status_code": 503,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": false
+      },
+      {
+        "subdomain": "tripx-alpha.prd.vn.cloud.tesla.com",
+        "url": "https://tripx-alpha.prd.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets-secure.tesla.com",
+        "url": "https://digitalassets-secure.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleet-api.eng.na.vn.cloud.tesla.com",
+        "url": "https://fleet-api.eng.na.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "analytics-relay.tesla.com",
+        "url": "https://analytics-relay.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets-learning.tesla.com",
+        "url": "https://digitalassets-learning.tesla.com",
+        "status_code": 404,
+        "server": "Cloudinary",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ownerapi-api.prd.usw.vn.cloud.tesla.com",
+        "url": "https://ownerapi-api.prd.usw.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "autobidder.powerhub.energy.tesla.com",
+        "url": "https://autobidder.powerhub.energy.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "track.tesla.com",
+        "url": "https://track.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "apigateway-logging.tesla.com",
+        "url": "https://apigateway-logging.tesla.com",
+        "status_code": 503,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "logcollector-ext.tesla.com",
+        "url": "https://logcollector-ext.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "teslacmgus01.tesla.com",
+        "url": "https://teslacmgus01.tesla.com",
+        "status_code": 500,
+        "server": "Microsoft-IIS/10.0",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "employeefeedback.tesla.com",
+        "url": "https://employeefeedback.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "sin05-gpgw1.tesla.com",
+        "url": "https://sin05-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "npuapt-prd.usw.vn.cloud.tesla.com",
+        "url": "https://npuapt-prd.usw.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ion.tesla.com",
+        "url": "https://ion.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hermes-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://hermes-api.prd.na.vn.cloud.tesla.com",
+        "status_code": 400,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "static.tesla.com",
+        "url": "https://static.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "device-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://device-api.prd.na.vn.cloud.tesla.com",
+        "status_code": 400,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "service.tesla.com",
+        "url": "https://service.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleetview.prd.america.fn.tesla.com",
+        "url": "https://fleetview.prd.america.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "lax32-gpgw1.tesla.com",
+        "url": "https://lax32-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "live-data.america.fn.tesla.com",
+        "url": "https://live-data.america.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "npu.prd.nav.vn.cloud.tesla.com",
+        "url": "https://npu.prd.nav.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "s3.prd.na.vn.cloud.tesla.com",
+        "url": "https://s3.prd.na.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "auth.tesla.com",
+        "url": "https://auth.tesla.com",
+        "status_code": 200,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ownerapi-alpha.prd.vn.cloud.tesla.com",
+        "url": "https://ownerapi-alpha.prd.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "tripx.prd.vn.cloud.tesla.com",
+        "url": "https://tripx.prd.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "cua-help-me-choose-ui.tesla.com",
+        "url": "https://cua-help-me-choose-ui.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg.tesla.com",
+        "url": "https://exp-zcp-cloud-na-itmfg.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleetview.europe.fn.tesla.com",
+        "url": "https://fleetview.europe.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "shop.tesla.com",
+        "url": "http://shop.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": false
+      },
+      {
+        "subdomain": "apigateway-charging-bff.tesla.com",
+        "url": "https://apigateway-charging-bff.tesla.com",
+        "status_code": 401,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+        "url": "https://tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "live-data.fn.tesla.com",
+        "url": "https://live-data.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "powerhub.energy.tesla.com",
+        "url": "https://powerhub.energy.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "apigateway-pricing-gateway.tesla.com",
+        "url": "https://apigateway-pricing-gateway.tesla.com",
+        "status_code": 503,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleetview.america.fn.tesla.com",
+        "url": "https://fleetview.america.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hermes-ap.prd.vn.cloud.tesla.com",
+        "url": "https://hermes-ap.prd.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "edr.tesla.com",
+        "url": "https://edr.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "cyberbeer.tesla.com",
+        "url": "https://cyberbeer.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "kronos-dev.tesla.com",
+        "url": "https://kronos-dev.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleet-api.prd.eu.vn.cloud.tesla.com",
+        "url": "https://fleet-api.prd.eu.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "apigateway-message-center-ownership.tesla.com",
+        "url": "https://apigateway-message-center-ownership.tesla.com",
+        "status_code": 401,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "akamai-apigateway-charging-ownership.tesla.com",
+        "url": "https://akamai-apigateway-charging-ownership.tesla.com",
+        "status_code": 503,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "static-assets-teslaaccount.tesla.com",
+        "url": "https://static-assets-teslaaccount.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "solarbonds.tesla.com",
+        "url": "http://solarbonds.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": false
+      },
+      {
+        "subdomain": "teslatequila.tesla.com",
+        "url": "https://teslatequila.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "telemetry-ap.prd.vn.cloud.tesla.com",
+        "url": "https://telemetry-ap.prd.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "cdn-design.tesla.com",
+        "url": "https://cdn-design.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "inventory-assets.tesla.com",
+        "url": "https://inventory-assets.tesla.com",
+        "status_code": 204,
+        "server": "Varnish",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "sjc36-gpgw1.tesla.com",
+        "url": "https://sjc36-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "mobile-ops-links.prd.vn.cloud.tesla.com",
+        "url": "https://mobile-ops-links.prd.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "AmazonS3",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "livestream.tesla.com",
+        "url": "https://livestream.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "media-server-qr.prd.america.vn.cloud.tesla.com",
+        "url": "https://media-server-qr.prd.america.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets-shop.tesla.com",
+        "url": "https://digitalassets-shop.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets-energy.tesla.com",
+        "url": "https://digitalassets-energy.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "auth.eng.usw.vn.cloud.tesla.com",
+        "url": "https://auth.eng.usw.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "cua-help-me-charge-ui.tesla.com",
+        "url": "https://cua-help-me-charge-ui.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "billing.tesla.com",
+        "url": "https://billing.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "teslacmgeu01.tesla.com",
+        "url": "https://teslacmgeu01.tesla.com",
+        "status_code": 500,
+        "server": "Microsoft-IIS/10.0",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ownerapi-api.eng.usw.vn.cloud.tesla.com",
+        "url": "https://ownerapi-api.eng.usw.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "www.tesla.com",
+        "url": "https://www.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "suppliers.tesla.com",
+        "url": "https://suppliers.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleetview.fn.tesla.com",
+        "url": "https://fleetview.fn.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hermes-stream-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://hermes-stream-api.prd.na.vn.cloud.tesla.com",
+        "status_code": 400,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "hermes-api.prd.eu.vn.cloud.tesla.com",
+        "url": "https://hermes-api.prd.eu.vn.cloud.tesla.com",
+        "status_code": 400,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "image.emails.tesla.com",
+        "url": "https://image.emails.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "ir.tesla.com",
+        "url": "https://ir.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "epc.tesla.com",
+        "url": "https://epc.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "akamai-apigateway-suppliers.tesla.com",
+        "url": "https://akamai-apigateway-suppliers.tesla.com",
+        "status_code": 503,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "autobidder-preprd.powerhub.energy.tesla.com",
+        "url": "https://autobidder-preprd.powerhub.energy.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "gpv.tesla.com",
+        "url": "https://gpv.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "media-server-dev-api.eng.vn.cloud.tesla.com",
+        "url": "https://media-server-dev-api.eng.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "link.tesla.com",
+        "url": "https://link.tesla.com",
+        "status_code": 404,
+        "server": "nginx",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "syd14-gpgw1.tesla.com",
+        "url": "https://syd14-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "sso.tesla.com",
+        "url": "https://sso.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets-accounts.tesla.com",
+        "url": "https://digitalassets-accounts.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "s3.eng.na.vn.cloud.tesla.com",
+        "url": "https://s3.eng.na.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "url": "https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "tripx.eng.usw2.vn.cloud.tesla.com",
+        "url": "https://tripx.eng.usw2.vn.cloud.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "iad05-gpgw1.tesla.com",
+        "url": "https://iad05-gpgw1.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "mobile.tesla.com",
+        "url": "https://mobile.tesla.com",
+        "status_code": 200,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "mobile-links-cdn.prd.vn.cloud.tesla.com",
+        "url": "https://mobile-links-cdn.prd.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "signaling-robotics.eng.vn.cloud.tesla.com",
+        "url": "https://signaling-robotics.eng.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "bettertime-stage.tesla.com",
+        "url": "https://bettertime-stage.tesla.com",
+        "status_code": 403,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "AmazonS3",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "mobile-links.eng.vn.cloud.tesla.com",
+        "url": "https://mobile-links.eng.vn.cloud.tesla.com",
+        "status_code": 403,
+        "server": "",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "digitalassets.tesla.com",
+        "url": "https://digitalassets.tesla.com",
+        "status_code": 200,
+        "server": "cloudflare",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "apmv3-cdn-go.tesla.com",
+        "url": "https://apmv3-cdn-go.tesla.com",
+        "status_code": 404,
+        "server": "vast 5.4.1.20",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "xmail.tesla.com",
+        "url": "http://xmail.tesla.com",
+        "status_code": 200,
+        "server": "Microsoft-HTTPAPI/2.0",
+        "title": "",
+        "tls": false
+      },
+      {
+        "subdomain": "teslacmgna01.tesla.com",
+        "url": "https://teslacmgna01.tesla.com",
+        "status_code": 500,
+        "server": "Microsoft-IIS/10.0",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "fleet-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://fleet-api.prd.na.vn.cloud.tesla.com",
+        "status_code": 404,
+        "server": "envoy",
+        "title": "",
+        "tls": true
+      },
+      {
+        "subdomain": "vehicle-files.eng.usw2.vn.cloud.tesla.com",
+        "url": "http://vehicle-files.eng.usw2.vn.cloud.tesla.com",
+        "status_code": 500,
+        "server": "AkamaiGHost",
+        "title": "",
+        "tls": false
+      }
+    ],
+    "count": 112
+  },
+  "security_headers": {
+    "hosts": [
+      {
+        "subdomain": "bettertime.tesla.com",
+        "url": "https://bettertime.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "npuca-prd.usw.vn.cloud.tesla.com",
+        "url": "https://npuca-prd.usw.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "digitalassets-secure.tesla.com",
+        "url": "https://digitalassets-secure.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'self' *.crazyegg.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' cloudinary.com *.cloudinary.com *.googletagmanager.com www.google-analytics.com *.google.com cdnjs.cloudflare.com unpkg.com cdn.jsdelivr.net stackpath.bootstrapcdn.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com *.6sc.co ml314.com tags.srv.stackadapt.com *.convertexperiments.com *.infinigrow.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com cdn.cr-proxy.com ddzuuyx7zj81k.cloudfront.net cdn.parsely.com; script-src-elem 'self' 'unsafe-inline' cloudinary.com *.cloudinary.com code.jquery.com *.amazonaws.com cdn.jsdelivr.net cdn.parsely.com cdn.cr-proxy.com stackpath.bootstrapcdn.com *.googletagmanager.com www.google-analytics.com *.google.com cdn.omniconvert.com *.calibermind.com unpkg.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com ml314.com *.6sc.co bat.bing.com static.ads-twitter.com www.clarity.ms tags.srv.stackadapt.com app.omniconvert.com web.omniconvert.com *.convertexperiments.com *.infinigrow.com ddzuuyx7zj81k.cloudfront.net dss6ntp5q2r0o.cloudfront.net cdnjs.cloudflare.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com app.convert.com cdn.cr-proxy.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org *.googletagmanager.com; style-src-elem 'self' 'unsafe-inline' fonts.googleapis.com *.googletagmanager.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org; img-src 'self' data: cloudinary.com *.cloudinary.com *.google.com www.google-analytics.com pagead2.googlesyndication.com cm.g.doubleclick.net www.google.co.uk www.google.de www.google.hr www.google.co.il *.google.com p1.parsely.com p1-irl.parsely.com pix.revjet.com sync.smartadserver.com sync.adstir.com sync.commander1.com ardrone.swoop.com tag.crsspxl.com segments.company-target.com ps.eyeota.net googleads.g.doubleclick.net secure.gravatar.com match.adsrvr.org wec-assets.terminus.services wec-assets-api.terminus.services px.ads.linkedin.com *.google.ca *.facebook.com benchmark.1e100cdn.net *.cedexis-test.com cedexis.pc.cdn.bitgravity.com ptcfc.com ubiquity.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com media-akam.licdn.com *.citrix-itm-test.com ubiquity.cedexis.eu-west-1.prod.endpoints.ubiquity.aws.a2z.com direct.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com a-cedexis.msedge.net 20059b.ha.azioncdn.net *.cedexis.fastlylb.net test.cedexis.gamma.endpoints.ubiquity.aws.a2z.com *.cdnvideo.ru essl-cdxs.edgekey.net direct.cedexis.ap-northeast-1.prod.endpoints.ubiquity.aws.a2z.com *.endpoints.ubiquity.aws.a2z.com level3ssl.optimicdn.com img-cedexis.mncdn.com cedexis-ssl.cdn.warpcache.net linkedin.com *.adsymptotic.com *.google.com www.googleapis.com *.gstatic.com maps.googleapis.com *.citrix.com cldmo.mo.cloudinary.net *.googletagmanager.com *.fastcdn.co *.instapage.com px4.ads.linkedin.com alb.reddit.com *.crazyegg.com *.mozilla.org *.imagecon.com script.mocky.com b.6sc.co bat.bing.com t.co analytics.twitter.com *.clarity.ms *.convertexperiments.com *.bing.com cdn.cookielaw.org dimensions-art.cloudinary.net n902wcigxi.execute-api.us-east-1.amazonaws.com *.adroll.com p28416.itm.cloud.com p118600.itm.cloud.com ml314.com x.bidswitch.net pixel.tapad.com dsum-sec.casalemedia.com sync.outbrain.com idsync.rlcdn.com pixel.rubiconproject.com image2.pubmatic.com us-u.openx.net sync.taboola.com eb2.3lift.com ib.adnxs.com *.reson8.com secure.adnxs.com dpm.demdex.net i.liadm.com; font-src 'self' 'unsafe-inline' data: fonts.gstatic.com cdnjs.cloudflare.com use.typekit.net bat.bing.com t.co analytics.twitter.com *.wp.com cdn.cookielaw.org; connect-src 'self' cloudinary.com *.cloudinary.com www.google-analytics.com pagead2.googlesyndication.com *.mktoutil.com *.doubleclick.net *.calibermind.com api.lever.co api.cr-proxy.com *.mktoresp.com *.init.cedexis-radar.net *.cedexis.com *.facebook.com a-cedexis.msedge.net *.cedexis.fastlylb.net *.netlify.app *.instapage.com *.instapagemetrics.com *.crazyegg.com script.mocky.com mocky.com *.google.com secure.adnxs.com c.6sc.co ipv6.6sc.co *.clarity.ms bat.bing.com tags.srv.stackadapt.com app.omniconvert.com *.convertexperiments.com *.metrics.convertexperiments.com logs.convertexperiments.com *.linkedin.com *.cookiebot.com *.infinigrow.com data.debugbear.com cdn.cookielaw.org epsilon.6sense.com *.6sc.co *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com ws.zoominfo.com tracking-api.g2.com n902wcigxi.execute-api.us-east-1.amazonaws.com *.algolia.net dss6ntp5q2r0o.cloudfront.net *.adroll.com cdn.jsdelivr.net; media-src 'self' cloudinary.com *.cloudinary.com blob:; worker-src 'self' blob:; frame-src stackblitz.com demo.arcade.software *.googletagmanager.com *.doubleclick.net *.productboard.com *.google.com jobs.lever.co app-ab12.marketo.com business.facebook.com consentcdn.cookiebot.com *.facebook.com *.cedexis-test.com cedexis.pc.cdn.bitgravity.com *.citrix-itm-test.com 20059b.ha.azioncdn.net essl-cdxs.edgekey.net *.cloudinary.com bid.g.doubleclick.net *.twitter.com cloudinary.com *.youtube.com *.driftt.com *.crazyegg.com *.wp.com p28416.itm.cloud.com p118600.itm.cloud.com app.convert.com; object-src 'none'",
+          "X-Frame-Options": "sameorigin"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "digitalassets-learning.tesla.com",
+        "url": "https://digitalassets-learning.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=604800"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "static-assets-pay.tesla.com",
+        "url": "https://static-assets-pay.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "frame-ancestors 'self' https://*.tesla.com https://*.teslamotors.com https://tesla.com http://localhost:* https://localhost:*",
+          "Strict-Transport-Security": "max-age=15768000",
+          "X-Content-Type-Options": "nosniff"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "fleetview.prd.america.fn.tesla.com",
+        "url": "https://fleetview.prd.america.fn.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src https:; connect-src https://t4b-navigation-ui-asset.tesla.com https://auth.tesla.com https://fleetview.fn.tesla.com https://fleetview.america.fn.tesla.com https://fleetview.prd.america.fn.tesla.com; script-src https: 'self'; style-src https: 'self' 'unsafe-inline'; font-src 'self' data: https://cdn-design.tesla.com https://digitalassets.tesla.com https://fonts.gstatic.com; img-src 'self' data: https://static-assets.tesla.com maps.gstatic.com *.googleapis.com *.ggpht.com https://tesla.com https://www.tesla.com;",
+          "Referrer-Policy": "same-origin",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Permissions-Policy"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "tripx.prd.usw.vn.cloud.tesla.com",
+        "url": "https://tripx.prd.usw.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "sso-dev.tesla.com",
+        "url": "https://sso-dev.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "kronos.tesla.com",
+        "url": "https://kronos.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "teslacmgeu01.tesla.com",
+        "url": "https://teslacmgeu01.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "sso.tesla.com",
+        "url": "https://sso.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "toolbox.tesla.com",
+        "url": "https://toolbox.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "ownerapi-api.eng.usw.vn.cloud.tesla.com",
+        "url": "https://ownerapi-api.eng.usw.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "url": "https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "s3.eng.na.vn.cloud.tesla.com",
+        "url": "https://s3.eng.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "www.tesla.com",
+        "url": "https://www.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()",
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "suppliers.tesla.com",
+        "url": "https://suppliers.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "tripx.eng.usw2.vn.cloud.tesla.com",
+        "url": "https://tripx.eng.usw2.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "engage.tesla.com",
+        "url": "https://engage.tesla.com",
+        "present_headers": {},
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 7
+      },
+      {
+        "subdomain": "fleetview.fn.tesla.com",
+        "url": "https://fleetview.fn.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src https:; connect-src https://t4b-navigation-ui-asset.tesla.com https://auth.tesla.com https://fleetview.fn.tesla.com https://fleetview.america.fn.tesla.com https://fleetview.prd.america.fn.tesla.com; script-src https: 'self'; style-src https: 'self' 'unsafe-inline'; font-src 'self' data: https://cdn-design.tesla.com https://digitalassets.tesla.com https://fonts.gstatic.com; img-src 'self' data: https://static-assets.tesla.com maps.gstatic.com *.googleapis.com *.ggpht.com https://tesla.com https://www.tesla.com;",
+          "Referrer-Policy": "same-origin",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Permissions-Policy"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "mobile-links-cdn.prd.vn.cloud.tesla.com",
+        "url": "https://mobile-links-cdn.prd.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "hermes-stream-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://hermes-stream-api.prd.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "iad05-gpgw1.tesla.com",
+        "url": "https://iad05-gpgw1.tesla.com",
+        "present_headers": {
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "bettertime-stage.tesla.com",
+        "url": "https://bettertime-stage.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "image.emails.tesla.com",
+        "url": "https://image.emails.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()",
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "mobile.tesla.com",
+        "url": "https://mobile.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "hermes-api.prd.eu.vn.cloud.tesla.com",
+        "url": "https://hermes-api.prd.eu.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "ir.tesla.com",
+        "url": "https://ir.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()",
+          "Strict-Transport-Security": "max-age=86400 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "apigateway-logging.tesla.com",
+        "url": "https://apigateway-logging.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "signaling-robotics.eng.vn.cloud.tesla.com",
+        "url": "https://signaling-robotics.eng.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "autobidder-preprd.powerhub.energy.tesla.com",
+        "url": "https://autobidder-preprd.powerhub.energy.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "gpv.tesla.com",
+        "url": "https://gpv.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; img-src * data:; style-src 'self' 'unsafe-inline'; frame-ancestors 'none';",
+          "Strict-Transport-Security": "max-age=31536000;",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "missing_count": 2
+      },
+      {
+        "subdomain": "track.tesla.com",
+        "url": "https://track.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "link.tesla.com",
+        "url": "https://link.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "shop.tesla.com",
+        "url": "http://shop.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "akamai-apigateway-suppliers.tesla.com",
+        "url": "https://akamai-apigateway-suppliers.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "hermes-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://hermes-api.prd.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "live-data.fn.tesla.com",
+        "url": "https://live-data.fn.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src https:; connect-src https://fleet-api.prd.na.vn.cloud.tesla.com https://t4b-navigation-ui-asset.tesla.com https://auth.tesla.com https://live-data.fn.tesla.com https://live-data.america.fn.tesla.com https://live-data.prd.america.fn.tesla.com https://www.tesla.com https://www.business.tesla.com https://business.tesla.com https://maps.googleapis.com; script-src https: 'self'; style-src https: 'self' 'unsafe-inline'; font-src 'self' data: https://cdn-design.tesla.com https://digitalassets.tesla.com https://fonts.gstatic.com; img-src 'self' data: https://static-assets.tesla.com https://digitalassets.tesla.com maps.gstatic.com *.googleapis.com *.ggpht.com https://tesla.com https://www.tesla.com https://vehicle-files.teslamotors.com;",
+          "Referrer-Policy": "same-origin",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Permissions-Policy"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "apigateway-pricing-gateway.tesla.com",
+        "url": "https://apigateway-pricing-gateway.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "media-server-dev-api.eng.vn.cloud.tesla.com",
+        "url": "https://media-server-dev-api.eng.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "fleetview.america.fn.tesla.com",
+        "url": "https://fleetview.america.fn.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src https:; connect-src https://t4b-navigation-ui-asset.tesla.com https://auth.tesla.com https://fleetview.fn.tesla.com https://fleetview.america.fn.tesla.com https://fleetview.prd.america.fn.tesla.com; script-src https: 'self'; style-src https: 'self' 'unsafe-inline'; font-src 'self' data: https://cdn-design.tesla.com https://digitalassets.tesla.com https://fonts.gstatic.com; img-src 'self' data: https://static-assets.tesla.com maps.gstatic.com *.googleapis.com *.ggpht.com https://tesla.com https://www.tesla.com;",
+          "Referrer-Policy": "same-origin",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Permissions-Policy"
+        ],
+        "missing_count": 3
+      },
+      {
+        "subdomain": "powerhub.energy.tesla.com",
+        "url": "https://powerhub.energy.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "frame-ancestors 'self'",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 2
+      },
+      {
+        "subdomain": "hnd13-gpgw1.tesla.com",
+        "url": "https://hnd13-gpgw1.tesla.com",
+        "present_headers": {
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "logcollector-ext.tesla.com",
+        "url": "https://logcollector-ext.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "npu.prd.nav.vn.cloud.tesla.com",
+        "url": "https://npu.prd.nav.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "kronos-dev.tesla.com",
+        "url": "https://kronos-dev.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "syd14-gpgw1.tesla.com",
+        "url": "https://syd14-gpgw1.tesla.com",
+        "present_headers": {
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "digitalassets.tesla.com",
+        "url": "https://digitalassets.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'self' *.crazyegg.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' cloudinary.com *.cloudinary.com *.googletagmanager.com www.google-analytics.com *.google.com cdnjs.cloudflare.com unpkg.com cdn.jsdelivr.net stackpath.bootstrapcdn.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com *.6sc.co ml314.com tags.srv.stackadapt.com *.convertexperiments.com *.infinigrow.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com cdn.cr-proxy.com ddzuuyx7zj81k.cloudfront.net cdn.parsely.com; script-src-elem 'self' 'unsafe-inline' cloudinary.com *.cloudinary.com code.jquery.com *.amazonaws.com cdn.jsdelivr.net cdn.parsely.com cdn.cr-proxy.com stackpath.bootstrapcdn.com *.googletagmanager.com www.google-analytics.com *.google.com cdn.omniconvert.com *.calibermind.com unpkg.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com ml314.com *.6sc.co bat.bing.com static.ads-twitter.com www.clarity.ms tags.srv.stackadapt.com app.omniconvert.com web.omniconvert.com *.convertexperiments.com *.infinigrow.com ddzuuyx7zj81k.cloudfront.net dss6ntp5q2r0o.cloudfront.net cdnjs.cloudflare.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com app.convert.com cdn.cr-proxy.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org *.googletagmanager.com; style-src-elem 'self' 'unsafe-inline' fonts.googleapis.com *.googletagmanager.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org; img-src 'self' data: cloudinary.com *.cloudinary.com *.google.com www.google-analytics.com pagead2.googlesyndication.com cm.g.doubleclick.net www.google.co.uk www.google.de www.google.hr www.google.co.il *.google.com p1.parsely.com p1-irl.parsely.com pix.revjet.com sync.smartadserver.com sync.adstir.com sync.commander1.com ardrone.swoop.com tag.crsspxl.com segments.company-target.com ps.eyeota.net googleads.g.doubleclick.net secure.gravatar.com match.adsrvr.org wec-assets.terminus.services wec-assets-api.terminus.services px.ads.linkedin.com *.google.ca *.facebook.com benchmark.1e100cdn.net *.cedexis-test.com cedexis.pc.cdn.bitgravity.com ptcfc.com ubiquity.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com media-akam.licdn.com *.citrix-itm-test.com ubiquity.cedexis.eu-west-1.prod.endpoints.ubiquity.aws.a2z.com direct.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com a-cedexis.msedge.net 20059b.ha.azioncdn.net *.cedexis.fastlylb.net test.cedexis.gamma.endpoints.ubiquity.aws.a2z.com *.cdnvideo.ru essl-cdxs.edgekey.net direct.cedexis.ap-northeast-1.prod.endpoints.ubiquity.aws.a2z.com *.endpoints.ubiquity.aws.a2z.com level3ssl.optimicdn.com img-cedexis.mncdn.com cedexis-ssl.cdn.warpcache.net linkedin.com *.adsymptotic.com *.google.com www.googleapis.com *.gstatic.com maps.googleapis.com *.citrix.com cldmo.mo.cloudinary.net *.googletagmanager.com *.fastcdn.co *.instapage.com px4.ads.linkedin.com alb.reddit.com *.crazyegg.com *.mozilla.org *.imagecon.com script.mocky.com b.6sc.co bat.bing.com t.co analytics.twitter.com *.clarity.ms *.convertexperiments.com *.bing.com cdn.cookielaw.org dimensions-art.cloudinary.net n902wcigxi.execute-api.us-east-1.amazonaws.com *.adroll.com p28416.itm.cloud.com p118600.itm.cloud.com ml314.com x.bidswitch.net pixel.tapad.com dsum-sec.casalemedia.com sync.outbrain.com idsync.rlcdn.com pixel.rubiconproject.com image2.pubmatic.com us-u.openx.net sync.taboola.com eb2.3lift.com ib.adnxs.com *.reson8.com secure.adnxs.com dpm.demdex.net i.liadm.com; font-src 'self' 'unsafe-inline' data: fonts.gstatic.com cdnjs.cloudflare.com use.typekit.net bat.bing.com t.co analytics.twitter.com *.wp.com cdn.cookielaw.org; connect-src 'self' cloudinary.com *.cloudinary.com www.google-analytics.com pagead2.googlesyndication.com *.mktoutil.com *.doubleclick.net *.calibermind.com api.lever.co api.cr-proxy.com *.mktoresp.com *.init.cedexis-radar.net *.cedexis.com *.facebook.com a-cedexis.msedge.net *.cedexis.fastlylb.net *.netlify.app *.instapage.com *.instapagemetrics.com *.crazyegg.com script.mocky.com mocky.com *.google.com secure.adnxs.com c.6sc.co ipv6.6sc.co *.clarity.ms bat.bing.com tags.srv.stackadapt.com app.omniconvert.com *.convertexperiments.com *.metrics.convertexperiments.com logs.convertexperiments.com *.linkedin.com *.cookiebot.com *.infinigrow.com data.debugbear.com cdn.cookielaw.org epsilon.6sense.com *.6sc.co *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com ws.zoominfo.com tracking-api.g2.com n902wcigxi.execute-api.us-east-1.amazonaws.com *.algolia.net dss6ntp5q2r0o.cloudfront.net *.adroll.com cdn.jsdelivr.net; media-src 'self' cloudinary.com *.cloudinary.com blob:; worker-src 'self' blob:; frame-src stackblitz.com demo.arcade.software *.googletagmanager.com *.doubleclick.net *.productboard.com *.google.com jobs.lever.co app-ab12.marketo.com business.facebook.com consentcdn.cookiebot.com *.facebook.com *.cedexis-test.com cedexis.pc.cdn.bitgravity.com *.citrix-itm-test.com 20059b.ha.azioncdn.net essl-cdxs.edgekey.net *.cloudinary.com bid.g.doubleclick.net *.twitter.com cloudinary.com *.youtube.com *.driftt.com *.crazyegg.com *.wp.com p28416.itm.cloud.com p118600.itm.cloud.com app.convert.com; object-src 'none'",
+          "X-Frame-Options": "sameorigin"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "edr.tesla.com",
+        "url": "https://edr.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "cyberbeer.tesla.com",
+        "url": "https://cyberbeer.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "teslacmgus01.tesla.com",
+        "url": "https://teslacmgus01.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+        "url": "https://tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "fleet-api.prd.eu.vn.cloud.tesla.com",
+        "url": "https://fleet-api.prd.eu.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "cdn-design.tesla.com",
+        "url": "https://cdn-design.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=86400 ; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "inventory-assets.tesla.com",
+        "url": "https://inventory-assets.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "hermes-ap.prd.vn.cloud.tesla.com",
+        "url": "https://hermes-ap.prd.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "epc.tesla.com",
+        "url": "https://epc.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "akamai-apigateway-charging-ownership.tesla.com",
+        "url": "https://akamai-apigateway-charging-ownership.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "apigateway-charging-bff.tesla.com",
+        "url": "https://apigateway-charging-bff.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "static-assets-teslaaccount.tesla.com",
+        "url": "https://static-assets-teslaaccount.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "teslatequila.tesla.com",
+        "url": "https://teslatequila.tesla.com",
+        "present_headers": {
+          "Permissions-Policy": "interest-cohort=()"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "tripx.prd.vn.cloud.tesla.com",
+        "url": "https://tripx.prd.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "device-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://device-api.prd.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "livestream.tesla.com",
+        "url": "https://livestream.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "s3.prd.na.vn.cloud.tesla.com",
+        "url": "https://s3.prd.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "telemetry-ap.prd.vn.cloud.tesla.com",
+        "url": "https://telemetry-ap.prd.vn.cloud.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'none'",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "digitalassets-shop.tesla.com",
+        "url": "https://digitalassets-shop.tesla.com",
+        "present_headers": {
+          "Content-Security-Policy": "default-src 'self' *.crazyegg.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' cloudinary.com *.cloudinary.com *.googletagmanager.com www.google-analytics.com *.google.com cdnjs.cloudflare.com unpkg.com cdn.jsdelivr.net stackpath.bootstrapcdn.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com *.6sc.co ml314.com tags.srv.stackadapt.com *.convertexperiments.com *.infinigrow.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com cdn.cr-proxy.com ddzuuyx7zj81k.cloudfront.net cdn.parsely.com; script-src-elem 'self' 'unsafe-inline' cloudinary.com *.cloudinary.com code.jquery.com *.amazonaws.com cdn.jsdelivr.net cdn.parsely.com cdn.cr-proxy.com stackpath.bootstrapcdn.com *.googletagmanager.com www.google-analytics.com *.google.com cdn.omniconvert.com *.calibermind.com unpkg.com app-ab12.marketo.com snap.licdn.com connect.facebook.net munchkin.marketo.net consent.cookiebot.com vidassets.terminus.services googleads.g.doubleclick.net radar.cedexis.com www.googleadservices.com maps.googleapis.com *.fastcdn.co *.instapage.com *.instapagemetrics.com *.redditstatic.com *.gstatic.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com ml314.com *.6sc.co bat.bing.com static.ads-twitter.com www.clarity.ms tags.srv.stackadapt.com app.omniconvert.com web.omniconvert.com *.convertexperiments.com *.infinigrow.com ddzuuyx7zj81k.cloudfront.net dss6ntp5q2r0o.cloudfront.net cdnjs.cloudflare.com cdn.debugbear.com cdn.cookielaw.org *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com tracking-api.g2.com *.adroll.com app.convert.com cdn.cr-proxy.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org *.googletagmanager.com; style-src-elem 'self' 'unsafe-inline' fonts.googleapis.com *.googletagmanager.com *.typekit.net unpkg.com cdnjs.cloudflare.com app-ab12.marketo.com *.google.com *.cloudinary.com *.crazyegg.com *.wp.com *.driftt.com script.mocky.com *.googleoptimize.com tags.srv.stackadapt.com cdn.jsdelivr.net cdn.cookielaw.org; img-src 'self' data: cloudinary.com *.cloudinary.com *.google.com www.google-analytics.com pagead2.googlesyndication.com cm.g.doubleclick.net www.google.co.uk www.google.de www.google.hr www.google.co.il *.google.com p1.parsely.com p1-irl.parsely.com pix.revjet.com sync.smartadserver.com sync.adstir.com sync.commander1.com ardrone.swoop.com tag.crsspxl.com segments.company-target.com ps.eyeota.net googleads.g.doubleclick.net secure.gravatar.com match.adsrvr.org wec-assets.terminus.services wec-assets-api.terminus.services px.ads.linkedin.com *.google.ca *.facebook.com benchmark.1e100cdn.net *.cedexis-test.com cedexis.pc.cdn.bitgravity.com ptcfc.com ubiquity.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com media-akam.licdn.com *.citrix-itm-test.com ubiquity.cedexis.eu-west-1.prod.endpoints.ubiquity.aws.a2z.com direct.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com a-cedexis.msedge.net 20059b.ha.azioncdn.net *.cedexis.fastlylb.net test.cedexis.gamma.endpoints.ubiquity.aws.a2z.com *.cdnvideo.ru essl-cdxs.edgekey.net direct.cedexis.ap-northeast-1.prod.endpoints.ubiquity.aws.a2z.com *.endpoints.ubiquity.aws.a2z.com level3ssl.optimicdn.com img-cedexis.mncdn.com cedexis-ssl.cdn.warpcache.net linkedin.com *.adsymptotic.com *.google.com www.googleapis.com *.gstatic.com maps.googleapis.com *.citrix.com cldmo.mo.cloudinary.net *.googletagmanager.com *.fastcdn.co *.instapage.com px4.ads.linkedin.com alb.reddit.com *.crazyegg.com *.mozilla.org *.imagecon.com script.mocky.com b.6sc.co bat.bing.com t.co analytics.twitter.com *.clarity.ms *.convertexperiments.com *.bing.com cdn.cookielaw.org dimensions-art.cloudinary.net n902wcigxi.execute-api.us-east-1.amazonaws.com *.adroll.com p28416.itm.cloud.com p118600.itm.cloud.com ml314.com x.bidswitch.net pixel.tapad.com dsum-sec.casalemedia.com sync.outbrain.com idsync.rlcdn.com pixel.rubiconproject.com image2.pubmatic.com us-u.openx.net sync.taboola.com eb2.3lift.com ib.adnxs.com *.reson8.com secure.adnxs.com dpm.demdex.net i.liadm.com; font-src 'self' 'unsafe-inline' data: fonts.gstatic.com cdnjs.cloudflare.com use.typekit.net bat.bing.com t.co analytics.twitter.com *.wp.com cdn.cookielaw.org; connect-src 'self' cloudinary.com *.cloudinary.com www.google-analytics.com pagead2.googlesyndication.com *.mktoutil.com *.doubleclick.net *.calibermind.com api.lever.co api.cr-proxy.com *.mktoresp.com *.init.cedexis-radar.net *.cedexis.com *.facebook.com a-cedexis.msedge.net *.cedexis.fastlylb.net *.netlify.app *.instapage.com *.instapagemetrics.com *.crazyegg.com script.mocky.com mocky.com *.google.com secure.adnxs.com c.6sc.co ipv6.6sc.co *.clarity.ms bat.bing.com tags.srv.stackadapt.com app.omniconvert.com *.convertexperiments.com *.metrics.convertexperiments.com logs.convertexperiments.com *.linkedin.com *.cookiebot.com *.infinigrow.com data.debugbear.com cdn.cookielaw.org epsilon.6sense.com *.6sc.co *.onetrust.com js.zi-scripts.com ws-assets.zoominfo.com ws.zoominfo.com tracking-api.g2.com n902wcigxi.execute-api.us-east-1.amazonaws.com *.algolia.net dss6ntp5q2r0o.cloudfront.net *.adroll.com cdn.jsdelivr.net; media-src 'self' cloudinary.com *.cloudinary.com blob:; worker-src 'self' blob:; frame-src stackblitz.com demo.arcade.software *.googletagmanager.com *.doubleclick.net *.productboard.com *.google.com jobs.lever.co app-ab12.marketo.com business.facebook.com consentcdn.cookiebot.com *.facebook.com *.cedexis-test.com cedexis.pc.cdn.bitgravity.com *.citrix-itm-test.com 20059b.ha.azioncdn.net essl-cdxs.edgekey.net *.cloudinary.com bid.g.doubleclick.net *.twitter.com cloudinary.com *.youtube.com *.driftt.com *.crazyegg.com *.wp.com p28416.itm.cloud.com p118600.itm.cloud.com app.convert.com; object-src 'none'",
+          "X-Frame-Options": "sameorigin"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "solarbonds.tesla.com",
+        "url": "http://solarbonds.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 5
+      },
+      {
+        "subdomain": "mobile-ops-links.prd.vn.cloud.tesla.com",
+        "url": "https://mobile-ops-links.prd.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "mobile-links.eng.vn.cloud.tesla.com",
+        "url": "https://mobile-links.eng.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "apmv3-cdn-go.tesla.com",
+        "url": "https://apmv3-cdn-go.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=86400",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "apigateway-message-center-ownership.tesla.com",
+        "url": "https://apigateway-message-center-ownership.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000 ; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "media-server-qr.prd.america.vn.cloud.tesla.com",
+        "url": "https://media-server-qr.prd.america.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "fleet-api.prd.na.vn.cloud.tesla.com",
+        "url": "https://fleet-api.prd.na.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      },
+      {
+        "subdomain": "vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=15768000"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "X-Frame-Options",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "sjc36-gpgw1.tesla.com",
+        "url": "https://sjc36-gpgw1.tesla.com",
+        "present_headers": {
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "X-Content-Type-Options",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 6
+      },
+      {
+        "subdomain": "teslacmgna01.tesla.com",
+        "url": "https://teslacmgna01.tesla.com",
+        "present_headers": {
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY"
+        },
+        "missing_headers": [
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy",
+          "X-XSS-Protection"
+        ],
+        "missing_count": 4
+      }
+    ]
+  },
+  "technologies": {
+    "hosts": [
+      {
+        "subdomain": "ir.tesla.com",
+        "url": "https://ir.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "teslacmgeu01.tesla.com",
+        "url": "https://teslacmgeu01.tesla.com",
+        "technologies": [
+          "iis"
+        ]
+      },
+      {
+        "subdomain": "billing.tesla.com",
+        "url": "https://billing.tesla.com",
+        "technologies": [
+          "next.js",
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "toolbox.tesla.com",
+        "url": "https://toolbox.tesla.com",
+        "technologies": [
+          "nginx"
+        ]
+      },
+      {
+        "subdomain": "static-assets-pay.tesla.com",
+        "url": "https://static-assets-pay.tesla.com",
+        "technologies": [
+          "express",
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "www.tesla.com",
+        "url": "https://www.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "digitalassets.tesla.com",
+        "url": "https://digitalassets.tesla.com",
+        "technologies": [
+          "cloudflare",
+          "wordpress"
+        ]
+      },
+      {
+        "subdomain": "cx-apac.tesla.com",
+        "url": "http://cx-apac.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "cua-help-me-charge-ui.tesla.com",
+        "url": "https://cua-help-me-charge-ui.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "teslatequila.tesla.com",
+        "url": "https://teslatequila.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "suppliers.tesla.com",
+        "url": "https://suppliers.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "gigabier.tesla.com",
+        "url": "https://gigabier.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "teslacmgna01.tesla.com",
+        "url": "https://teslacmgna01.tesla.com",
+        "technologies": [
+          "iis"
+        ]
+      },
+      {
+        "subdomain": "apmv3-cdn-go.tesla.com",
+        "url": "https://apmv3-cdn-go.tesla.com",
+        "technologies": [
+          "aws",
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-na-itmfg-staging.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-na-itmfg.tesla.com",
+        "url": "https://exp-zcp-cloud-na-itmfg.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "cua-help-me-choose-ui.tesla.com",
+        "url": "https://cua-help-me-choose-ui.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "bettertime-stage.tesla.com",
+        "url": "https://bettertime-stage.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.eng.euw1.vn.cloud.tesla.com",
+        "technologies": [
+          "aws"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "url": "https://vehicle-files.prd.euw1.vn.cloud.tesla.com",
+        "technologies": [
+          "aws"
+        ]
+      },
+      {
+        "subdomain": "inventory-assets.tesla.com",
+        "url": "https://inventory-assets.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "hcaptcha.tesla.com",
+        "url": "http://hcaptcha.tesla.com",
+        "technologies": [
+          "cloudflare",
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "edr.tesla.com",
+        "url": "https://edr.tesla.com",
+        "technologies": [
+          "express"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-charging-ownership.tesla.com",
+        "url": "https://akamai-apigateway-charging-ownership.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "shop.tesla.com",
+        "url": "http://shop.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "vehicle-files.eng.usw2.vn.cloud.tesla.com",
+        "url": "http://vehicle-files.eng.usw2.vn.cloud.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "cdn-design.tesla.com",
+        "url": "https://cdn-design.tesla.com",
+        "technologies": [
+          "varnish",
+          "express"
+        ]
+      },
+      {
+        "subdomain": "autobidder.powerhub.energy.tesla.com",
+        "url": "https://autobidder.powerhub.energy.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "logcollector-ext.tesla.com",
+        "url": "https://logcollector-ext.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "link.tesla.com",
+        "url": "https://link.tesla.com",
+        "technologies": [
+          "nginx"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-shop.tesla.com",
+        "url": "https://digitalassets-shop.tesla.com",
+        "technologies": [
+          "wordpress",
+          "cloudflare"
+        ]
+      },
+      {
+        "subdomain": "autobidder-preprd.powerhub.energy.tesla.com",
+        "url": "https://autobidder-preprd.powerhub.energy.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-suppliers.tesla.com",
+        "url": "https://akamai-apigateway-suppliers.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "url": "https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "cyberbeer.tesla.com",
+        "url": "https://cyberbeer.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "static.tesla.com",
+        "url": "https://static.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "url": "https://exp-zcp-cloud-eu-itmfg-staging.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-accounts.tesla.com",
+        "url": "https://digitalassets-accounts.tesla.com",
+        "technologies": [
+          "cloudflare",
+          "wordpress"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-secure.tesla.com",
+        "url": "https://digitalassets-secure.tesla.com",
+        "technologies": [
+          "cloudflare",
+          "wordpress"
+        ]
+      },
+      {
+        "subdomain": "analytics-relay.tesla.com",
+        "url": "https://analytics-relay.tesla.com",
+        "technologies": [
+          "akamai"
+        ]
+      },
+      {
+        "subdomain": "track.tesla.com",
+        "url": "https://track.tesla.com",
+        "technologies": [
+          "varnish",
+          "express"
+        ]
+      },
+      {
+        "subdomain": "solarbonds.tesla.com",
+        "url": "http://solarbonds.tesla.com",
+        "technologies": [
+          "django"
+        ]
+      },
+      {
+        "subdomain": "employeefeedback.tesla.com",
+        "url": "https://employeefeedback.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "digitalassets-energy.tesla.com",
+        "url": "https://digitalassets-energy.tesla.com",
+        "technologies": [
+          "cloudflare",
+          "wordpress"
+        ]
+      },
+      {
+        "subdomain": "static-assets-teslaaccount.tesla.com",
+        "url": "https://static-assets-teslaaccount.tesla.com",
+        "technologies": [
+          "varnish"
+        ]
+      },
+      {
+        "subdomain": "teslacmgus01.tesla.com",
+        "url": "https://teslacmgus01.tesla.com",
+        "technologies": [
+          "iis"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "total_subdomains": 658,
+    "live_hosts": 200,
+    "http_responsive": 112,
+    "headers_analysed": 80,
+    "tech_detected": 46
+  }
+}
